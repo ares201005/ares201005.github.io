@@ -1,0 +1,39 @@
+- name: Xinyang Li 
+  photo: xinyang.jpeg
+  info:  Postdoc, 01/2022 - present
+  email: lix at lanl.gov
+  number_educ: 2
+  education1: BSc in chemistry, Wuhan University
+  education2: PhD with Prof. Pengfei (Frank) Huo at Rochester University
+
+- name: Ilia Mazin
+  photo: Ilia.jpeg
+  info: Postdoc, 01/2024 - present
+  email: imazin at lanl.gov
+  number_educ: 2
+  education1: BSc, Metropolitan State University of Denver
+  education2: PhD with Prof. Alexander Sokolov at The Ohio State University
+
+- name: Braden Weight
+  photo: braden.jpeg
+  info: Summer GRA, 2023
+  email: bweight@ur.rochester.edu
+  number_educ: 2
+  education1: BSc in Physics/Chemistry, North Dakota State University
+  education2: Master in Physics, North Dakota State University
+
+- name: Chance Lander
+  photo: chance.jpeg
+  info: Summer GRA,  2023
+  email: chance.lander@ou.edu
+  number_educ: 1
+  education1: BSc in Biochemistry, University of Texas at Dallas
+
+- name: "This could be you !"
+  photo: rock.jpg
+  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
+  email: milan.allan@gmail.com
+  number_educ: 0
+  education1:
+  education2:
+  education3:

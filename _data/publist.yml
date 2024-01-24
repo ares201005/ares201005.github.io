@@ -1,0 +1,30 @@
+- title: "Theory and modeling of light-matter interactions in chemistry: current and future"
+  image: pccp2023_toc.jpeg 
+  description: This perspective starts with the basic background of light-matter interactions, molecular quantum electrodynamics theory, and the challenges of modeling light-matter interactions in chemistry. Then, the recent advances in modeling plasmon and polariton chemistry are described, and future directions toward multiscale simulations of light–matter interaction-mediated chemistry are discussed.
+  authors: B. M. Weight, X. Li, Y. Zhang
+  link:
+     url: https://doi.org/10.1039/D3CP01415K
+     display: Phys. Chem. Chem. Phys., 25, 31554 (2023).
+  highlight: 1
+
+- title: "Variational quantum eigensolver with reduced circuit complexity"
+  image: cluster_toc.png
+  description: ClusterVQE therefore allows exact simulation of the problem by using fewer qubits and shallower circuit depth at the cost of additional classical resources, making it a potential leader for quantum chemistry simulations on NISQ.
+  authors: Y. Zhang, L. Cincio, C. FA Negre, P. Czarnik, P. J Coles, P. M Anisimov, S. M Mniszewski, S. Tretiak, P. A Dub
+  link:
+    url: https://doi.org/10.1038/s41534-022-00599-z
+    display: npj Quantum Inf 8, 96 (2022).
+  highlight: 1
+
+- title: "Molecular dynamics study of plasmon-mediated chemical transformations"
+  image: chemsci2023_toc.jpeg
+  description: Our simulations provide important dynamical and atomistic insights into plasmon-mediated chemical transformations from the perspective of non-adiabatic simulations.
+  authors: X. Wu, T van der Heide, S. Wen, T. Frauenheim, S. Tretiak, C. Yam, Y. Zhang
+  link:
+     url: https://doi.org/10.1039/D2SC06648C
+     display: Chem. Sci., 14, 4714 (2023).
+  highlight: 1
+
+
+
+

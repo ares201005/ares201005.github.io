@@ -1,0 +1,142 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: The mQED Lab
+email: zhy@lanl.gov
+description: > # this means to ignore newlines until "baseurl:"
+  Academic webpage of the Zhang Lab.
+baseurl: ""
+url: ""
+
+# Google analytics ID: Uncomment and your own, if you like
+# google_analytics: XX
+# google_analytics_4: XXX
+# google_tag_manager: XXX
+
+# Footer info
+affiliation: >
+    Yu Zhang<br/>
+    Staff Scientist<br/>
+    Theoretical Division<br/>
+    Los Alamos National Laboratory
+
+location: >
+  Los Alamos National Laboratory<br/>
+  MS B221 <br/>
+  Los Alamos, NM, 87545
+
+contact: >
+    <a href="mailto:richard@university.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Richard via email</a> <br/>
+    <a href="https://github.com/sbryngelson/academic-website-template"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
+
+author:
+  name             : #"Your Sidebar Name"
+  avatar           : "yuzhang.jpeg"
+  bio              : "Staff Scientist @ Los Alamos National Lab"
+  location         :  Los Alamos, NM, USA
+  #location         :  <a href="https://goo.gl/maps/FKRBWUYWAXZQWx9n9">Los Alamos, NM, USA</a> 
+  employer         : 
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=DOy5PYUAAAAJ&hl=en"
+  email            :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "ares201005"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         :
+  orcid            : "https://orcid.org/0000-0001-8938-1927"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # 
+  steam            :
+  tumblr           :
+  twitter          : 
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
+
+
+
+# Pages shown in navbar
+nav_pages:
+  - name: team
+  - name: openings
+  - name: publications
+  - name: research
+
+#- name: software
+#- name: talks
+#- name: about
+
+include:
+  - .htaccess
+  - _pages
+
+sass:
+  sass_dir: _sass
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+  parse_block_html: true # default for kramdown is false. This will enable using Markdown links
+
+# for listing reference from bibtex file
+plugins: ['jekyll/scholar']
+
+scholar:
+
+  last_name: Doe
+  first_name: [John]
+
+  style: citesty
+  locale: en
+
+  source: /assets/
+  bibliography: ref.bib
+  bibliography_template: bibtemplate
+  sort_by: year, month
+  order: descending
+
+  replace_strings: true
+  join_strings: true
+
+  details_dir: bibliography
+  details_layout: bibtex.html
+  details_link: Details
+
+  query: "@*"
+
+  bibliography_list_attributes:
+    reversed: "reversed"
+
