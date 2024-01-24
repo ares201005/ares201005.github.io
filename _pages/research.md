@@ -42,7 +42,7 @@ Example description
 </div>
 
 
-Updating soon -- stay put. (Aug 11 2023)
+Updating soon -- stay put. (Jan 24 2024)
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/pccp_cover.png){: style="width: 70%; float: center; margin: 0px"}
 
