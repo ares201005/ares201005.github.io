@@ -157,7 +157,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i> Role: {{ member.info }} <br>  {{ member.duration }}
+  <i> Role: {{ member.info }}  <br> Research: {{member.research}} <br>  {{ member.duration }}
    </i>
   <ul style="overflow: hidden">
 

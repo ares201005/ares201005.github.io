@@ -1,6 +1,7 @@
 - name: Ashutosh Kumar
   photo: ashutosh.jpeg
   info: Postdoc
+  research: Quantum computation
   duration: 01/2021 - 04/2023; Now Research Scientist at Photonics Inc.
   email: 
   number_educ: 1
@@ -9,6 +10,7 @@
 - name: Nikolay Tkachenko 
   photo: nikolay.jpeg
   info: Graduate Research Assistant (Utah State University)
+  research: Quantum computation
   duration: Summers of 2020 - 2022; Now Postdoc at UC Berkeley
   email: 
   number_educ: 1
@@ -17,6 +19,7 @@
 - name:  Nosheen Younas
   photo: 
   info: Graduate Research Assistant (University of Houston)
+  research: Molecular qubits 
   duration: 06/2022 - 08/2022
   email: 
   number_educ: 1
@@ -25,6 +28,7 @@
 - name:  Diana Chamaki
   photo: 
   info: Graduate Research Assistant (University of California, Berkeley)
+  research: Quantum computation
   duration: 06/2021 - 08/2021
   email: 
   number_educ: 1
@@ -33,6 +37,7 @@
 - name:  James Sud
   photo: 
   info: Graduate Research Assistant (University of California, Berkeley)
+  research: Quantum computation
   duration: 06/2020 - 08/2020
   email: 
   number_educ: 1
@@ -41,6 +46,7 @@
 - name:  Linqiu Li 
   photo: 
   info: Graduate Research Assistant (University of Southern California)
+  research: Nonadiabatic molecular dynamics
   duration: 10/2019 - 01/2020
   email: 
   number_educ: 1
