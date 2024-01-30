@@ -7,11 +7,14 @@
 
 # Site settings
 title: The mQED Lab
+
 email: zhy@lanl.gov
 description: > # this means to ignore newlines until "baseurl:"
   Academic webpage of the Zhang Lab.
 baseurl: ""
-url: ""
+
+url        : https://ares201005.github.io # the base hostname "https://mmistakes.github.io"
+repository : "ares201005/ares201005.github.io"
 
 # Google analytics ID: Uncomment and your own, if you like
 # google_analytics: XX
