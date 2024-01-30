@@ -11,7 +11,7 @@ permalink: /pictures/
 #### Gallery
 (Right-click *'view image'* to see a larger image. More TBA)
 {% assign number_printed = 0 %}
-{% for pic in site.data.pictures_lanl %}
+{% for pic in site.data.pictures %}
 
 {% assign even_odd = number_printed | modulo: 4 %}
 
