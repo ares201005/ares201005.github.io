@@ -25,14 +25,32 @@
      display: Chem. Sci., 14, 4714 (2023).
   highlight: 1
 
-
-- title: "Updating soon"
-  image: 
-  description: 
-  authors: 
+- title: "Correlation-Informed Permutation of Qubits for Reducing Ansatz Depth in the Variational Quantum Eigensolver"
+  image: permVQE.png
+  description: A Variational Quantum Eigensolver, namely PermVQE, that permutes qubits in order to solve for the qubit Hamiltonian that maximally localizes correlations in the ground state. 
+  authors: N. V. Tkachenko, J. Sud, Y. Zhang*, S. Tretiak, P. M. Anisimov, A. T. Arrasmith, P. J. Coles, L. Cincio*, and P. A. Dub
   link:
-     url: 
-     display: 
+     url: https://doi.org/10.1103/PRXQuantum.2.020337
+     display: PRX Quantum 2, 020337 (2021).
   highlight: 1
+
+- title: "Mechanistic Insights into Photocatalyzed H2 Dissociation on Au Clusters"
+  image: JACS2020.jpeg
+  description: A comprehensive physical picture of photoinduced H2 dissociation on Au clusters.
+  authors: Q. Wu, L. Zhou, G. C. Schatz, Yu Zhang*, and H. Guo*.
+  link:
+     url: https://doi.org/10.1021/jacs.0c04491
+     display: J. Am. Chem. Soc. 142, 13090 (2020).
+  highlight: 1
+
+- title: "Plasmonic Hot-Carrier-Mediated Tunable Photochemical Reactions"
+  image: ACSNANO2018.gif
+  description: An atomic-scale mechanism of a plasmonic hot-carrier-mediated chemical process, H2 dissociation.
+  authors: Y. Zhang*, T. Nelson, S. Tretiak, and G. C. Schatz.
+  link:
+     url: https://doi.org/10.1021/acsnano.8b03830
+     display: ACS Nano, 12, 8415 (2018)
+  highlight: 1
+
 
 
