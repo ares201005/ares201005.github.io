@@ -1,3 +1,32 @@
+
+- title: "Machine Learning Framework for Modeling Exciton Polaritons in Molecular Materials"
+  image: JCTC2024_ml.jpeg
+  description: This work presents a general protocol to predict excited-state properties, such as energies, transition dipoles, and nonadiabatic coupling vectors with the hierarchically interacting particle neural network. ML predictions are then applied to compute the potential energy surfaces and electronic spectra of a prototype azomethane molecule in the collective coupling scenario. These computational tools provide a much-needed framework to model and understand many molecules’ emerging excited-state polariton chemistry
+  authors: X. Li, N. Lubbers, S. Tretiak, K. Barros*, and Y. Zhang*
+  link:
+     url: https://doi.org/10.1021/acs.jctc.3c01068
+     display: J. Chem. Theory Comput. 20, 891 (2024).
+  highlight: 1
+
+- title: "Quantum Simulation of Molecular Response Properties in the NISQ Era"
+  image: JCTC2023_QLR.jpeg
+  description: In this work,  we develop a quantum linear response (qLR) theory to calculate molecular response properties on near-term quantum computers. Inspired by the recently developed variants of the quantum counterpart of equation of motion (qEOM) theory, the qLR formalism employs “killer condition” satisfying excitation operator manifolds that offer a number of theoretical advantages along with reduced quantum resource requirements. We also used the qEOM framework in this work to calculate the state-specific response properties. 
+  authors: A. Kumar*, A. Asthana, V. Abraham, T. D. Crawford, N. J. Mayhall, Y. Zhang*, L. Cincio, S. Tretiak, and P. A. Dub*
+  link:
+     url: https://doi.org/10.1021/acs.jctc.3c00731
+     display: J. Chem. Theory Comput. 19, 9316 (2024).
+  highlight: 1
+
+- title: "Shadow Molecular Dynamics and Atomic Cluster Expansions for Flexible Charge Models"
+  image: JCTC2023_eqe.jpeg
+  description: This work presents a shadow molecular dynamics scheme for flexible charge models where the shadow Born–Oppenheimer potential is derived from a coarse-grained approximation of range-separated density functional theory.
+  authors: J. Goff*, Y. Zhang, C. Negre, A. Rohskopf, and A. M. N. Niklasson*
+  link:
+     url: https://doi.org/10.1021/acs.jctc.3c00349
+     display: J. Chem. Theory Comput. 19, 4255 (2024).
+  highlight: 1
+
+
 - title: "Theory and modeling of light-matter interactions in chemistry: current and future"
   image: pccp2023_toc.jpeg 
   description: This perspective starts with the basic background of light-matter interactions, molecular quantum electrodynamics theory, and the challenges of modeling light-matter interactions in chemistry. Then, the recent advances in modeling plasmon and polariton chemistry are described, and future directions toward multiscale simulations of light–matter interaction-mediated chemistry are discussed.
@@ -9,7 +38,7 @@
 
 - title: "Variational quantum eigensolver with reduced circuit complexity"
   image: cluster_toc.png
-  description: ClusterVQE therefore allows exact simulation of the problem by using fewer qubits and shallower circuit depth at the cost of additional classical resources, making it a potential leader for quantum chemistry simulations on NISQ.
+  description: This work presents a quantum parallel algorithm (ClusterVQE) that allows exact simulation of the problem by using fewer qubits and shallower circuit depth at the cost of additional classical resources, making it a potential leader for quantum chemistry simulations on NISQ.
   authors: Y. Zhang, L. Cincio, C. FA Negre, P. Czarnik, P. J Coles, P. M Anisimov, S. M Mniszewski, S. Tretiak, P. A Dub
   link:
     url: https://doi.org/10.1038/s41534-022-00599-z

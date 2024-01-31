@@ -21,6 +21,7 @@
   number_educ: 2
   education1: BSc in Physics/Chemistry, North Dakota State University
   education2: Master in Physics, North Dakota State University
+  education3: PhD candidate with Prof. Pengfei (Frank) Huo at Rochester University
 
 - name: Chance Lander
   photo: chance.jpeg
@@ -28,11 +29,12 @@
   email: chance.lander@ou.edu
   number_educ: 1
   education1: BSc in Biochemistry, University of Texas at Dallas
+  education2: PhD candidate with Prof. Yihan Shao at The University of Oklahoma
 
 - name: "This could be you !"
   photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
+  info: See <a href="">openings</a> for more info
+  email: zhy@lanl.gov
   number_educ: 0
   education1:
   education2:
