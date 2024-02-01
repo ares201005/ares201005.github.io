@@ -33,6 +33,7 @@ iframe {
 
 ## Research
 
+<!--
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
 <h4>Example Research</h4>
@@ -40,9 +41,33 @@ iframe {
 Example description
 </div>
 </div>
+-->
 
+{% assign number_printed = 0 %}
+{% for research in site.data.researchlist %}
 
-Updating soon -- stay put. (Jan 24 2024)
+{% if research.highlight == 1 %}
+
+<div class="row">
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12">
+  <h4>{{ research.title }}</h4>
+  <h5>{{ research.subtitle }}</h5>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ research.image }}" class="img-responsive" width="45%" style="float: left" />
+  <p>{{ research.description }}</p>
+ </div>
+</div>
+
+</div>
+
+{% endif %}
+{% endfor %}
+
+</div>
+
+<p> &nbsp; </p>
+
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/pccp_cover.png){: style="width: 70%; float: center; margin: 0px"}
 

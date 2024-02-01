@@ -38,7 +38,6 @@ You can find the full list of my publications on <a href="{{site.author.googlesc
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
-
 {% if even_odd == 1 %}
 </div>
 {% endif %}

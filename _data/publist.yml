@@ -18,7 +18,7 @@
   highlight: 1
 
 - title: "Shadow Molecular Dynamics and Atomic Cluster Expansions for Flexible Charge Models"
-  image: JCTC2023_eqe.jpeg
+  image: JCTC2023_qeq.jpeg
   description: This work presents a shadow molecular dynamics scheme for flexible charge models where the shadow Born–Oppenheimer potential is derived from a coarse-grained approximation of range-separated density functional theory.
   authors: J. Goff*, Y. Zhang, C. Negre, A. Rohskopf, and A. M. N. Niklasson*
   link:

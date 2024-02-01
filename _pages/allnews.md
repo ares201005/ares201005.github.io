@@ -1,9 +1,9 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Zhang Lab at LANL."
+excerpt: "Zhang Lab - News"
 sitemap: false
-permalink: /allnews.html
+permalink: /allnews/
 ---
 
 ## News
