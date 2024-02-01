@@ -33,16 +33,6 @@ iframe {
 
 ## Research
 
-<!--
-<div class="jumbotron">
-<div class="col-md-12 col-sm-12">
-<h4>Example Research</h4>
-
-Example description
-</div>
-</div>
--->
-
 {% for res in site.data.researchlist %}
 
 {% if res.highlight == 1 %}
@@ -55,11 +45,7 @@ Example description
   <h5> {{ res.subtitle }}</h5>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ res.image }}" class="img-responsive" width="45%" style="float: left" />
   <p>{{ res.description }}</p>
-  <!--
-  <p><em>{{ research.authors }}</em></p>
-  <p><strong><a href="{{ research.link.url }}">{{ research.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ research.news1 }}</strong></p>
- -->
+  <p>{{ res.description2 }}</p>
  </div>
 </div>
 
