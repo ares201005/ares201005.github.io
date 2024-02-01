@@ -1,6 +1,6 @@
 ---
 title: "Zhang Lab - Research"
-layout: textlay
+layout: gridlay
 excerpt: "Zhang Lab -- Research"
 sitemap: false
 permalink: /research/
@@ -43,19 +43,23 @@ Example description
 </div>
 -->
 
-{% assign number_printed = 0 %}
-{% for research in site.data.researchlist %}
+{% for res in site.data.researchlist %}
 
-{% if research.highlight == 1 %}
+{% if res.highlight == 1 %}
 
 <div class="row">
 
-<div class="jumbotron">
-<div class="col-md-12 col-sm-12">
-  <h4>{{ research.title }}</h4>
-  <h5>{{ research.subtitle }}</h5>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ research.image }}" class="img-responsive" width="45%" style="float: left" />
-  <p>{{ research.description }}</p>
+<div class="col-sm-12 clearfix">
+ <div class="well">
+  <h4><b>{{ res.title }}</b></h4>
+  <h5> {{ res.subtitle }}</h5>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ res.image }}" class="img-responsive" width="45%" style="float: left" />
+  <p>{{ res.description }}</p>
+  <!--
+  <p><em>{{ research.authors }}</em></p>
+  <p><strong><a href="{{ research.link.url }}">{{ research.link.display }}</a></strong></p>
+  <p class="text-danger"><strong> {{ research.news1 }}</strong></p>
+ -->
  </div>
 </div>
 
@@ -64,11 +68,9 @@ Example description
 {% endif %}
 {% endfor %}
 
-</div>
-
 <p> &nbsp; </p>
 
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/pccp_cover.png){: style="width: 70%; float: center; margin: 0px"}
+
 
 
