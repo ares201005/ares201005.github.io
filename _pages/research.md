@@ -42,7 +42,7 @@ iframe {
 <div class="col-sm-12 clearfix">
  <div class="well">
   <h4><b>{{ res.title }}</b></h4>
-  <h5> {{ res.subtitle }}</h5>
+  <h5> {{ res.short }}</h5>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ res.image }}" class="img-responsive" width="45%" style="float: left" />
   <p>{{ res.description }}</p>
   <p>{{ res.description2 }}</p>
