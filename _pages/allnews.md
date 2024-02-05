@@ -3,7 +3,7 @@ title: "News"
 layout: textlay
 excerpt: "Zhang Lab - News"
 sitemap: false
-permalink: /allnews/
+permalink: /news/
 ---
 
 ## News
