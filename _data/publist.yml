@@ -1,63 +1,81 @@
 
-- title: "Machine Learning Framework for Modeling Exciton Polaritons in Molecular Materials"
-  image: JCTC2024_ml.jpeg
-  description: This work presents a general protocol to predict excited-state properties, such as energies, transition dipoles, and nonadiabatic coupling vectors with the hierarchically interacting particle neural network. ML predictions are then applied to compute the potential energy surfaces and electronic spectra of a prototype azomethane molecule in the collective coupling scenario. These computational tools provide a much-needed framework to model and understand many molecules’ emerging excited-state polariton chemistry
-  authors: X. Li, N. Lubbers, S. Tretiak, K. Barros*, and Y. Zhang*
+- title: "First-principles molecular quantum electrodynamics theory at all coupling strengths"
+  image: vtqedhf.png
+  description: In this work, we developed a variational transformation-based molecular quantum electrodynamics mean-field method, namely VT-QEDHF, for light-matter interaction at arbitrary coupling strength. The numerical benchmark demonstrates that the VT-QEDHF method naturally connects both QEDHF and self-consistent QEDHF methods at the two limits, showcasing the advantage of VT-QEHDF across all coupling strengths.
+  authors: X. Li, and Y. Zhang\*
   link:
-     url: https://doi.org/10.1021/acs.jctc.3c01068
-     display: J. Chem. Theory Comput. 20, 891 (2024).
+     url: https://doi.org/10.48550/arXiv.2310.18228
+     display: arXiv:2310.18228
   highlight: 1
 
 - title: "Quantum Simulation of Molecular Response Properties in the NISQ Era"
   image: JCTC2023_QLR.jpeg
   description: In this work,  we develop a quantum linear response (qLR) theory to calculate molecular response properties on near-term quantum computers. Inspired by the recently developed variants of the quantum counterpart of equation of motion (qEOM) theory, the qLR formalism employs “killer condition” satisfying excitation operator manifolds that offer a number of theoretical advantages along with reduced quantum resource requirements. We also used the qEOM framework in this work to calculate the state-specific response properties. 
-  authors: A. Kumar*, A. Asthana, V. Abraham, T. D. Crawford, N. J. Mayhall, Y. Zhang*, L. Cincio, S. Tretiak, and P. A. Dub*
+  authors: A. Kumar\*, A. Asthana, V. Abraham, T. D. Crawford, N. J. Mayhall, Y. Zhang\*, L. Cincio, S. Tretiak, and P. A. Dub\*
   link:
      url: https://doi.org/10.1021/acs.jctc.3c00731
-     display: J. Chem. Theory Comput. 19, 9316 (2024).
+     display: J. Chem. Theory Comput. 19, 9316 (2023).
   highlight: 1
 
 - title: "Shadow Molecular Dynamics and Atomic Cluster Expansions for Flexible Charge Models"
   image: JCTC2023_qeq.jpeg
   description: This work presents a shadow molecular dynamics scheme for flexible charge models where the shadow Born–Oppenheimer potential is derived from a coarse-grained approximation of range-separated density functional theory.
-  authors: J. Goff*, Y. Zhang, C. Negre, A. Rohskopf, and A. M. N. Niklasson*
+  authors: J. Goff\*, Y. Zhang, C. Negre, A. Rohskopf, and A. M. N. Niklasson\*
   link:
      url: https://doi.org/10.1021/acs.jctc.3c00349
-     display: J. Chem. Theory Comput. 19, 4255 (2024).
+     display: J. Chem. Theory Comput. 19, 4255 (2023).
   highlight: 1
 
 
 - title: "Theory and modeling of light-matter interactions in chemistry: current and future"
   image: pccp2023_toc.jpeg 
   description: This perspective starts with the basic background of light-matter interactions, molecular quantum electrodynamics theory, and the challenges of modeling light-matter interactions in chemistry. Then, the recent advances in modeling plasmon and polariton chemistry are described, and future directions toward multiscale simulations of light–matter interaction-mediated chemistry are discussed.
-  authors: B. M. Weight, X. Li, Y. Zhang
+  authors: B. M. Weight, X. Li, Y. Zhang\*
   link:
      url: https://doi.org/10.1039/D3CP01415K
      display: Phys. Chem. Chem. Phys., 25, 31554 (2023).
   highlight: 1
 
-- title: "Variational quantum eigensolver with reduced circuit complexity"
-  image: cluster_toc.png
-  description: This work presents a quantum parallel algorithm (ClusterVQE) that allows exact simulation of the problem by using fewer qubits and shallower circuit depth at the cost of additional classical resources, making it a potential leader for quantum chemistry simulations on NISQ.
-  authors: Y. Zhang, L. Cincio, C. FA Negre, P. Czarnik, P. J Coles, P. M Anisimov, S. M Mniszewski, S. Tretiak, P. A Dub
-  link:
-    url: https://doi.org/10.1038/s41534-022-00599-z
-    display: npj Quantum Inf 8, 96 (2022).
-  highlight: 1
-
 - title: "Molecular dynamics study of plasmon-mediated chemical transformations"
   image: chemsci2023_toc.jpeg
   description: Our simulations provide important dynamical and atomistic insights into plasmon-mediated chemical transformations from the perspective of non-adiabatic simulations.
-  authors: X. Wu, T van der Heide, S. Wen, T. Frauenheim, S. Tretiak, C. Yam, Y. Zhang
+  authors: X. Wu, T van der Heide, S. Wen, T. Frauenheim, S. Tretiak, C. Yam, Y. Zhang\*
   link:
      url: https://doi.org/10.1039/D2SC06648C
      display: Chem. Sci., 14, 4714 (2023).
   highlight: 1
 
+- title: "Quantum Simulation of Molecular Electronic States with a Transcorrelated Hamiltonian: Higher Accuracy with Fewer Qubits"
+  image: JCTC2022_QC.jpeg 
+  description: Simulation of electronic structure is one of the most promising applications on noisy intermediate-scale quantum (NISQ) era devices. However, NISQ devices suffer from a number of challenges like limited qubit connectivity, short coherence times, and sizable gate error rates. Thus, desired quantum algorithms should require shallow circuit depths and low qubit counts to take advantage of these devices. Here, we attempt to reduce quantum resource requirements for molecular simulations on a quantum computer while maintaining the desired accuracy with the help of classical quantum chemical theories of canonical transformation and explicit correlation
+  authors: A. Kumar, A. Asthana, C. Masteran, E. F. Valeev\*, Y. Zhang\*, L. Cincio, S. Tretiak, and P. A. Dub\*
+  link:
+     url: https://doi.org/10.1021/acs.jctc.2c00520
+     display: J. Chem. Theory Comput. 18, 5312 (2022).
+  highlight: 1
+
+- title: "Variational quantum eigensolver with reduced circuit complexity"
+  image: cluster_toc.png
+  description: This work presents a quantum parallel algorithm (ClusterVQE) that allows exact simulation of the problem by using fewer qubits and shallower circuit depth at the cost of additional classical resources, making it a potential leader for quantum chemistry simulations on NISQ.
+  authors: Y. Zhang\*, L. Cincio, C. FA Negre, P. Czarnik, P. J Coles, P. M Anisimov, S. M Mniszewski, S. Tretiak, P. A Dub
+  link:
+    url: https://doi.org/10.1038/s41534-022-00599-z
+    display: npj Quantum Inf 8, 96 (2022).
+  highlight: 1
+
+- title: "Theory of Plasmonic Hot-Carrier Generation and Relaxation"
+  image: JPCA2021_Plasmon.jpeg
+  description: Hot-carrier (HC) generation from (localized) surface plasmon decay has recently attracted much attention due to its promising applications in physical, chemical, materials, and energy science. However, the detailed mechanisms of plasmonic HC generation, relaxation, and trapping are less studied. In this work, we developed and applied a quantum-mechanical model and coupled master equation method to study the generation of HCs from plasmon decay and their following relaxation processes with different mechanisms treated on equal footing. 
+  authors: Y. Zhang\*
+  link:
+     url: https://doi.org/10.1021/acs.jpca.1c05837
+     display: J. Phys. Chem. A 125, 9201 (2021).
+  highlight: 1
+
 - title: "Correlation-Informed Permutation of Qubits for Reducing Ansatz Depth in the Variational Quantum Eigensolver"
   image: permVQE.png
   description: A Variational Quantum Eigensolver, namely PermVQE, that permutes qubits in order to solve for the qubit Hamiltonian that maximally localizes correlations in the ground state. 
-  authors: N. V. Tkachenko, J. Sud, Y. Zhang*, S. Tretiak, P. M. Anisimov, A. T. Arrasmith, P. J. Coles, L. Cincio*, and P. A. Dub
+  authors: N. V. Tkachenko, J. Sud, Y. Zhang\*, S. Tretiak, P. M. Anisimov, A. T. Arrasmith, P. J. Coles, L. Cincio\*, and P. A. Dub\*
   link:
      url: https://doi.org/10.1103/PRXQuantum.2.020337
      display: PRX Quantum 2, 020337 (2021).
@@ -66,7 +84,7 @@
 - title: "Mechanistic Insights into Photocatalyzed H2 Dissociation on Au Clusters"
   image: JACS2020.jpeg
   description: A comprehensive physical picture of photoinduced H2 dissociation on Au clusters.
-  authors: Q. Wu, L. Zhou, G. C. Schatz, Yu Zhang*, and H. Guo*.
+  authors: Q. Wu, L. Zhou, G. C. Schatz, Y. Zhang\*, and H. Guo\*.
   link:
      url: https://doi.org/10.1021/jacs.0c04491
      display: J. Am. Chem. Soc. 142, 13090 (2020).
@@ -75,7 +93,7 @@
 - title: "Plasmonic Hot-Carrier-Mediated Tunable Photochemical Reactions"
   image: ACSNANO2018.gif
   description: An atomic-scale mechanism of a plasmonic hot-carrier-mediated chemical process, H2 dissociation.
-  authors: Y. Zhang*, T. Nelson, S. Tretiak, and G. C. Schatz.
+  authors: Y. Zhang\*, T. Nelson, S. Tretiak, and G. C. Schatz.
   link:
      url: https://doi.org/10.1021/acsnano.8b03830
      display: ACS Nano, 12, 8415 (2018)
