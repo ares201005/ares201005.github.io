@@ -1,0 +1,17 @@
+- name: Braden Weight
+  photo: braden.jpeg
+  info: Summer GRA, 2023
+  email: bweight@ur.rochester.edu
+  number_educ: 2
+  education1: BSc in Physics/Chemistry, North Dakota State University
+  education2: Master in Physics, North Dakota State University
+  education3: PhD candidate with Prof. Pengfei (Frank) Huo at Rochester University
+
+- name: Chance Lander
+  photo: chance.jpeg
+  info: Summer GRA,  2023
+  email: chance.lander@ou.edu
+  number_educ: 1
+  education1: BSc in Biochemistry, University of Texas at Dallas
+  education2: PhD candidate with Prof. Yihan Shao at The University of Oklahoma
+

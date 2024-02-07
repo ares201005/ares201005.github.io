@@ -6,7 +6,7 @@ sitemap: false
 permalink: /openings
 ---
 
-# Open positions
+## Open positions
 
 **We are currently open for postdoc applications related to DOE Basic Energy Science project. The positions are mostly related to the multiscale modeling of light-matter interactions in materials.**
 
@@ -16,11 +16,11 @@ The successful candidate will contribute to our new project on developing multis
 
 The initial appointment will be two years, with the possibility of a third-year extension upon mutual agreement.
 
-Applications are to be submitted via the LANL [job portal](https://lanl.jobs/search/jobdetails/physics-and-chemistry-of-materials-postdoc-research-associate/b6986a6a-51c4-4e99-b2a1-5a31ba6f68c9) or sent to me via [email](mailto:zhy@lanl.gov). State briefly why you are interested and attach a CV, including information about education, research, and publicatins.
+Applications are to be sent to me via [email](mailto:zhy@lanl.gov). State briefly why you are interested and attach a CV, including information about education, research, and publicatins.
 
 ### Postdoc Fellowships
 
-Truly outstanding applicants may apply for prestigious and highly competitive Director's and Oppenheimer's postdoctoral fellowships, which provide the opportunity to pursue independent research. Candidates for these positions need to be nominated by technical staff members. The winners are selected four times annually and are determined by the strengths of the candidates' research proposals and their academic and research excellence. If you are interested to apply, send a resume, publications list, statement of research interests and future plans, and arrange for 3 recommendation letters to Yu Zhang by [email](mailto:zhy@lanl.gov).
+Truly outstanding applicants may apply for prestigious and highly competitive Director's and Oppenheimer's postdoctoral fellowships, which provide the opportunity to pursue independent research. Candidates for these positions need to be nominated by technical staff members. The winners are selected quarterly (Director's Fellow) or annually (Oppenheimer Fellow) and are determined by the strengths of the candidates' research proposals and their academic and research excellence. If you are interested in applying, send <b>a resume, publications list, statement of research interests, and future plans</b>, and arrange for <b>three recommendation letters</b> to Yu Zhang by [email](mailto:zhy@lanl.gov).
 
 ### Undergraduate and graduate summer student programs
 
