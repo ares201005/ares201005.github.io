@@ -1,10 +1,32 @@
-- title: cover
-  image: pccp_cover.png
+- title: compressed_BryceCanyon2
+  image: compressed_BryceCanyon2.jpg 
 
-- title: Plasmonics
-  image: plasmon_pes.png
+- title: compressed_MI2
+  image: compressed_MI2.jpg 
 
-- title: Quantum Computing
-  image: cluster_toc.png
+- title: compressed_CO_pass
+  image: compressed_CO_pass.jpg 
 
+- title: compressed_CO_pass2
+  image: compressed_CO_pass2.jpg 
 
+- title: compressed_Monument1
+  image: compressed_Monument1.jpg 
+
+- title: compressed_CO_durango
+  image: compressed_CO_durango.jpg 
+
+- title: compressed_Neowise
+  image: compressed_Neowise.jpg 
+
+- title: compressed_MI1
+  image: compressed_MI1.jpg 
+
+- title: compressed_CO_Ouray
+  image: compressed_CO_Ouray.jpg 
+
+- title: compressed_BryceCanyon1
+  image: compressed_BryceCanyon1.jpg 
+
+- title: compressed_CO_Telluride3
+  image: compressed_CO_Telluride3.jpg 
