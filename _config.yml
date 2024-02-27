@@ -80,9 +80,9 @@ author:
 # Pages shown in navbar
 nav_pages:
   - name: team
-  - name: openings
-  - name: publications
   - name: research
+  - name: publications
+  - name: openings
   - name: news
   
 #- name: software

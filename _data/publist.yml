@@ -1,3 +1,29 @@
+- title: "template"
+  image: tba.jpeg
+  description:  TBA.
+  authors: TBA
+  link:
+     url: tba
+     display: tba
+  highlight: 0
+
+- title: "Plasmon mediated coherent population oscillations in molecular aggregates"
+  image: sq_polariton.png
+  description: By utilizing ultrafast two-dimensional electronic spectroscopy to probe the quantum dynamics of J-aggregate excitons collectively coupled to the spatially structured plasmonic fields of a gold nanoslit array, we observe rich coherent Rabi oscillation dynamics reflecting a plasmon-driven coherent exciton population transfer over mesoscopic distances at room temperature. This opens up new opportunities to manipulate the coherent transport of matter excitations by coupling to vacuum fields. 
+  authors: D. Timmer, M. Gittinger, T. Quenzel, S. Stephan, Y. Zhang, M. F. Schumacher, A. Lützen, M. Silies, S. Tretiak, J. Zhong, A. De Sio and C. Lienau\*
+  link:
+     url: https://doi.org/10.1038/s41467-023-43578-4
+     display:  Nat Commun 14, 8035 (2023).
+  highlight: 1
+
+- title: "Machine Learning Framework for Modeling Exciton Polaritons in Molecular Materials"
+  image: ml_polariton.jpeg
+  description:  Polariton chemistry is a collective phenomenon, and its effects increase with the number of molecules in a cavity. However, simulating an ensemble of molecules in the excited state coupled to a cavity mode is theoretically and computationally challenging. This work presents a general protocol to predict excited-state properties, such as energies, transition dipoles, and nonadiabatic coupling vectors with the hierarchically interacting particle neural network. ML predictions are then applied to compute the potential energy surfaces and electronic spectra of a prototype azomethane molecule in the collective coupling scenario. These computational tools provide a much-needed framework to model and understand many molecules’ emerging excited-state polariton chemistry.
+  authors: Xinyang Li, Nicholas Lubbers, Sergei Tretiak, Kipton Barros\*, and Yu Zhang\*
+  link:
+     url: https://doi.org/10.1021/acs.jctc.3c01068
+     display: J. Chem. Theory Comput. 20, 891 (2024).
+  highlight: 1
 
 - title: "First-principles molecular quantum electrodynamics theory at all coupling strengths"
   image: vtqedhf.png
