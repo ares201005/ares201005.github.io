@@ -7,6 +7,24 @@
      display: tba
   highlight: 0
 
+- title: "Diffusion quantum Monte Carlo approach to the polaritonic ground state"
+  image: dmc.png
+  description: In this work, we explore the formally exact diffusion quantum Monte Carlo approach to obtain numerical solutions to the polaritonic ground state during the dissociation of the $H_2$ molecular system. We examine various electron-nuclear-photon properties throughout the dissociation, such as changes to the minimum of the cavity Born-Oppenheimer surface, the localization of the electronic wave function, and the average mode occupation. Finally, we directly compare our results to that obtained with state-of-the-art, yet approximate, polaritonic coupled cluster approaches. 
+  authors: B. M. Weight, S. Tretiak, and Y. Zhang\*
+  link:
+     url: https://doi.org/10.1103/PhysRevA.109.032804
+     display: Phys. Rev. A 109, 032804 (2024)
+  highlight: 1
+
+- title: "First-principles molecular quantum electrodynamics theory at all coupling strengths"
+  image: vtqedhf.png
+  description: In this work, we developed a variational transformation-based molecular quantum electrodynamics mean-field method, namely VT-QEDHF, for light-matter interaction at arbitrary coupling strength. The numerical benchmark demonstrates that the VT-QEDHF method naturally connects both QEDHF and self-consistent QEDHF methods at the two limits, showcasing the advantage of VT-QEHDF across all coupling strengths.
+  authors: X. Li, and Y. Zhang\*
+  link:
+     url: https://doi.org/10.48550/arXiv.2310.18228
+     display: arXiv:2310.18228
+  highlight: 1
+
 - title: "Plasmon mediated coherent population oscillations in molecular aggregates"
   image: sq_polariton.png
   description: By utilizing ultrafast two-dimensional electronic spectroscopy to probe the quantum dynamics of J-aggregate excitons collectively coupled to the spatially structured plasmonic fields of a gold nanoslit array, we observe rich coherent Rabi oscillation dynamics reflecting a plasmon-driven coherent exciton population transfer over mesoscopic distances at room temperature. This opens up new opportunities to manipulate the coherent transport of matter excitations by coupling to vacuum fields. 
@@ -23,15 +41,6 @@
   link:
      url: https://doi.org/10.1021/acs.jctc.3c01068
      display: J. Chem. Theory Comput. 20, 891 (2024).
-  highlight: 1
-
-- title: "First-principles molecular quantum electrodynamics theory at all coupling strengths"
-  image: vtqedhf.png
-  description: In this work, we developed a variational transformation-based molecular quantum electrodynamics mean-field method, namely VT-QEDHF, for light-matter interaction at arbitrary coupling strength. The numerical benchmark demonstrates that the VT-QEDHF method naturally connects both QEDHF and self-consistent QEDHF methods at the two limits, showcasing the advantage of VT-QEHDF across all coupling strengths.
-  authors: X. Li, and Y. Zhang\*
-  link:
-     url: https://doi.org/10.48550/arXiv.2310.18228
-     display: arXiv:2310.18228
   highlight: 1
 
 - title: "Quantum Simulation of Molecular Response Properties in the NISQ Era"
