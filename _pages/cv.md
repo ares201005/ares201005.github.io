@@ -25,7 +25,6 @@ permalink: /cv/yuzhang/
 
 * Jan 2018 - Oct 2019: Director's Postdoc Fellow at Los Alamos National Laboratory
   * Research: Nonadiabatic molecular dynamics for open-shell systems and light-matter interactions
-  * Mentors: Dr. Tammie Nelson and Dr. Sergei Tretiak
 
 <b> Awards </b>
 
@@ -51,7 +50,7 @@ permalink: /cv/yuzhang/
 
 1. <a href="https://github.com/ares201005/dolphin">DOLPHIN</a>: A multi-physics finite-element solver for ion transport. Poisson-Nernst-Planck and Navier-Stokes equations are implemented.
 
-1. <a href="https://github.com/lanl/NEXMD">NEXMD</a>: Nonadiabatic Excited State Molecular Dynamics Software developed by Sergei Tretiak's group at Los Alamos National Laboratory. My contributions include the open-shell method, nonadiabatic molecular dynamics for strong light-matter interaction, and interface with DFTB+.
+1. <a href="https://github.com/lanl/NEXMD">NEXMD</a>: Nonadiabatic Excited State Molecular Dynamics Software developed at Los Alamos National Laboratory. My contributions include the open-shell method, nonadiabatic molecular dynamics for strong light-matter interaction, and interface with DFTB+.
 
 1. <a href="https://github.com/lanl/LATTE">LATTE</a>: Open source density functional tight binding molecular dynamics code developed at Los Alamos National Laboratory.
 

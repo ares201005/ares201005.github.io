@@ -6,8 +6,6 @@ sitemap: false
 permalink: /
 ---
 
- **We are  looking for passionate Postdoc(s) to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **
-
 We are a multiscale/multiphysics theory and modeling team of the Theoretical Division at Los Alamos National Laboratory (LANL),
 working on the development of theoretical models and numerical algorithms for understanding the electronic structure
 and dynamics of complex molecular systems, condensed matter, and open quantum systems. Our current research interests

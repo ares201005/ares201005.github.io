@@ -1,3 +1,4 @@
+
 - title: "template"
   image: tba.jpeg
   description:  TBA.
@@ -6,6 +7,15 @@
      url: tba
      display: tba
   highlight: 0
+
+- title: "Quantum Davidson algorithm for excited states"
+  image: QDAV.jpg
+  description: Excited state properties play a pivotal role in various chemical and physical phenomena, such as charge separation and light emission. However, the primary focus of most existing quantum algorithms has been the ground state. In this work, we present an economic quantum Davidson algorithm (QDavidson) that utilizes iterative expansion of the Krylov subspace and a pre-conditioner within the Davidson framework. By using the residues of eigenstates to expand the Krylov subspace, we manage to formulate a compact subspace that aligns closely with the exact solutions.
+  authors: N. Tkachenko, L. Cincio, A. I. Boldyrev, S. Tretiak, P. Dub and Y. Zhang\*
+  link:
+     url: https://doi.org/10.1088/2058-9565/ad3a97
+     display: Quantum Sci. Technol. 9, 035012, (2024).
+  highlight: 1
 
 - title: "Diffusion quantum Monte Carlo approach to the polaritonic ground state"
   image: dmc.png
