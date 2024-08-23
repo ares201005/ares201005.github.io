@@ -6,13 +6,12 @@ sitemap: false
 permalink: /misc
 ---
 
-Updating soon!
-<p> &nbsp; </p>
+### Interesting papers
 
 <div class="row">
 <div class="col-sm-12 clearfix">
  <div class="well">
-  <h4> Interesting papers </h4>
+  <!-- <h4> Interesting papers </h4> -->
   <ul style="overflow: hidden">
   {% for misc in site.data.miscpaperlist %}
   {% if misc.highlight == 1 %}

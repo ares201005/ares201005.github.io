@@ -32,7 +32,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   {% if member.cv %}
    [(CV)]({{ site.url }}{{ site.baseurl }}/{{ member.cv }})
   {% endif %}
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}> --> </i>
+  <i>{{ member.info }} <br>email: {{ member.email }} </i>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}

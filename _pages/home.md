@@ -11,11 +11,11 @@ working on the development of theoretical models and numerical algorithms for un
 and dynamics of complex molecular systems, condensed matter, and open quantum systems. Our current research interests
 include:
 
-1. Quantum Computation
-1. Light-Matter interactions: plasmon and polariton Chemistry
-1. Exascale computation
+1. Light-Matter interactions in chemistry: plasmon and polariton Chemistry
+1. Cavity quantum materials
+1. Quantum Computation and quantum information science
 1. Quantum transport and quantum dissipation
-1. Molecular quantum information science
+1. Exascale computation
 
 
 
