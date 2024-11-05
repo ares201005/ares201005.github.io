@@ -8,6 +8,33 @@
      display: tba
   highlight: 0
 
+- title: "Light-Matter Hybridization and Entanglement from the First-Principles"
+  image: vsq_qedhf_example.png
+  description: This work extends the quantum electrodynamics Hartree-Fock (QEDHF) framework by introducing a variational squeezed (VSQ) transformation to capture anharmonic fluctuations in strongly coupled systems. Unlike the conventional product-state QEDHF approach, this enhanced formalism incorporates light-matter entanglement by optimizing squeezing parameters, improving the accuracy of photon field quantum fluctuation descriptions. The proposed method provides deeper insights into light-matter hybridization and enables first-principles studies of entanglement, advancing the predictive capabilities of QEDHF in strong coupling regimes.
+  authors: I. Mazin and Y. Zhang\*
+  link:
+     url: https://arxiv.org/abs/2411.
+     display: arXiv:2411.xx
+  highlight: 0
+
+- title: "Semiclassical Nonadiabatic Molecular Dynamics for Molecular Exciton-Polaritons"
+  image: aimc_example.png
+  description:  This work introduces a coherent-state-based many-body approach to model light-matter interactions in polaritonic systems, implementing a nonadiabatic molecular dynamics framework within the NEXMD package. Using pyridine as a model system, simulations reveal that coherence and decoherence are crucial for accurately capturing exciton-polariton dynamics. Compared to surface hopping, the semiclassical Ab Initio Multiple Cloning (AIMC) protocol demonstrates prolonged relaxation times, emphasizing the need to properly treat coherence for reliable simulations of polariton-mediated dynamics.
+  authors: X. Li, S. Tretiak and Y. Zhang\*
+  link:
+     url: https://arxiv.org/abs/2410.16478
+     display: arXiv:2410.16478.
+  highlight: 1
+
+- title: "Multi-reference Quantum Davidson Algorithm for Quantum Dynamics"
+  image: davidson_dynamics.png
+  description: In this study, we intro- duce and evaluate two QKS methods derived from the QDavidson algorithm, a novel approach for determining the ground and excited states of many-body systems. Unlike other QKS methods that pre-generate the Krylov subspace through real- or imaginary-time evolution, QDavidson iteratively adds basis vectors into the Krylov subspace. This iterative process enables faster convergence with fewer iterations and necessitates shallower circuit depths, marking a significant advancement in the field of quantum simulation.
+  authors: N. Berthusen, F. Alam, Yu Zhang\*
+  link:
+     url: https://arxiv.org/abs/2406.08675
+     display: arXiv:2406.08675
+  highlight: 1
+
 - title: "Quantum Davidson algorithm for excited states"
   image: QDAV.jpg
   description: Excited state properties play a pivotal role in various chemical and physical phenomena, such as charge separation and light emission. However, the primary focus of most existing quantum algorithms has been the ground state. In this work, we present an economic quantum Davidson algorithm (QDavidson) that utilizes iterative expansion of the Krylov subspace and a pre-conditioner within the Davidson framework. By using the residues of eigenstates to expand the Krylov subspace, we manage to formulate a compact subspace that aligns closely with the exact solutions.
@@ -19,7 +46,7 @@
 
 - title: "Diffusion quantum Monte Carlo approach to the polaritonic ground state"
   image: dmc.png
-  description: In this work, we explore the formally exact diffusion quantum Monte Carlo approach to obtain numerical solutions to the polaritonic ground state during the dissociation of the $H_2$ molecular system. We examine various electron-nuclear-photon properties throughout the dissociation, such as changes to the minimum of the cavity Born-Oppenheimer surface, the localization of the electronic wave function, and the average mode occupation. Finally, we directly compare our results to that obtained with state-of-the-art, yet approximate, polaritonic coupled cluster approaches. 
+  description: In this work, we explore the formally exact diffusion quantum Monte Carlo approach to obtain numerical solutions to the polaritonic ground state during the dissociation of the $H_2$ molecular system. We examine various electron-nuclear-photon properties throughout the dissociation, such as changes to the minimum of the cavity Born-Oppenheimer surface, the localization of the electronic wave function, and the average mode occupation. Finally, we directly compare our results to that obtained with state-of-the-art, yet approximate, polaritonic coupled cluster approaches.
   authors: B. M. Weight, S. Tretiak, and Y. Zhang\*
   link:
      url: https://doi.org/10.1103/PhysRevA.109.032804

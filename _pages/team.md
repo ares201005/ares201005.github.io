@@ -32,7 +32,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   {% if member.cv %}
    [(CV)]({{ site.url }}{{ site.baseurl }}/{{ member.cv }})
   {% endif %}
-  <i>{{ member.info }} <br>email: {{ member.email }} </i>
+  <i>{{ member.info }} <br>Email: {{ member.email }} </i>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -97,6 +97,10 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}> --> </i>
+  {% if member.research %}
+  <i>Research: {{member.research}} </i>
+  {% endif %}
+
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -161,6 +165,9 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}> --> </i>
+  {% if member.research %}
+  <i>Research: {{member.research}} </i>
+  {% endif %}
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}

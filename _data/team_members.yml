@@ -1,10 +1,11 @@
-- name: Xinyang Li 
+- name: Xinyang Li
   photo: xinyang.jpeg
   info:  Postdoc, 01/2022 - present
   email: lix at lanl.gov
   number_educ: 2
   education1: BSc in chemistry, Wuhan University
   education2: PhD with Prof. Pengfei (Frank) Huo at Rochester University
+  research: Machine learning
 
 - name: Ilia Mazin
   photo: Ilia.jpeg
@@ -13,6 +14,7 @@
   number_educ: 2
   education1: BSc, Metropolitan State University of Denver
   education2: PhD with Prof. Alexander Sokolov at The Ohio State University
+  research: Ab initio cavity quantum chemistry
 
 - name: "This could be you !"
   photo: rock.jpg
