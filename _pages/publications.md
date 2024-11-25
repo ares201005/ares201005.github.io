@@ -10,7 +10,8 @@ permalink: /publications/
 ## Publications
 
 **
-You can find the full list of my publications on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
+You can find the full list of my publications on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>
+and browse some preprints on <a href="http://arxiv.org/a/zhang_y_7">arXiv</a>.
 **
 
 ## Highlights

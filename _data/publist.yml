@@ -13,9 +13,9 @@
   description: This work extends the quantum electrodynamics Hartree-Fock (QEDHF) framework by introducing a variational squeezed (VSQ) transformation to capture anharmonic fluctuations in strongly coupled systems. Unlike the conventional product-state QEDHF approach, this enhanced formalism incorporates light-matter entanglement by optimizing squeezing parameters, improving the accuracy of photon field quantum fluctuation descriptions. The proposed method provides deeper insights into light-matter hybridization and enables first-principles studies of entanglement, advancing the predictive capabilities of QEDHF in strong coupling regimes.
   authors: I. Mazin and Y. Zhang\*
   link:
-     url: https://arxiv.org/abs/2411.
-     display: arXiv:2411.xx
-  highlight: 0
+     url: https://arxiv.org/abs/2411.15022
+     display: arXiv:2411.15022
+  highlight: 1
 
 - title: "Semiclassical Nonadiabatic Molecular Dynamics for Molecular Exciton-Polaritons"
   image: aimc_example.png
