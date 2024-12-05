@@ -31,7 +31,7 @@ iframe {
 }
 </style>
 
-## Research
+## Current research
 
 {% for res in site.data.researchlist %}
 
@@ -57,6 +57,30 @@ iframe {
 <p> &nbsp; </p>
 
 
+## Previous research
 
+{% for res in site.data.previousresearchlist %}
+
+{% if res.highlight == 1 %}
+
+<div class="row">
+
+<div class="col-sm-12 clearfix">
+ <div class="well">
+  <h4><b>{{ res.title }}</b></h4>
+  <!--  <h5> {{ res.short }}</h5> -->
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ res.image }}" class="img-responsive" width="35%" style="float: left" />
+  <p>{{ res.description }}</p>
+  <p>{{ res.description2 }}</p>
+  <p><strong>{{ res.references }}</strong></p>
+ </div>
+</div>
+
+</div>
+
+{% endif %}
+{% endfor %}
+
+<p> &nbsp; </p>
 
 

@@ -13,10 +13,10 @@
 
 - title: "Cavity quantum materials"
   short: "Light-induced quantum states and phase transition in low-dimensional materials: where Quantum materials meet cavities"
-  image: cavity_quantum_matter.png
-  description: In this area, we explore the quantum electrodynamics of collective many-body phenomena in condensed matter systems strongly coupled to cavities.
+  image: 
+  description: TBA.
   description2: 
-  highlight: 0
+  highlight: 1
 
 - title: "Plasmon chemistry"
   short: "Develop and apply theoretical models and numerical methods to understand the physics of plasmon-mediated chemistry"
@@ -31,10 +31,4 @@
   description2: In this research project, we focus on developing a first-principles-based method that employs a quantum embedding technique to tackle these challenges. This approach significantly reduces the computational cost while maintaining high accuracy, allowing for a deeper understanding of the relaxation dynamics of molecular qubits. By efficiently modeling the complex interplay between spin-spin and spin-phonon interactions, our method will not only pave the way for substantial advancements in quantum information processing but also enable the exploration of previously intractable problems in studying molecular qubits. The development of such a method is essential for realizing the full potential of molecular qubits and fostering the growth of quantum information technologies.
   highlight: 1
 
-- title: "Exascale computing"
-  short: "Development of fast and massively parallel algorithms for electronic structure and quantum molecular dynamics on heterogeneous computers"
-  image: chicoma.png
-  description:  Exascale computing, characterized by its ability to perform calculations at an unprecedented scale, has the potential to revolutionize the study of complex phenomena in materials science and quantum physics. A deeper understanding of the electronic structure, quantum molecular dynamics, and light-matter interactions is essential for developing new materials, advanced quantum devices, and a wide range of other applications. However, the inherent complexity of these problems poses significant computational challenges, often requiring large-scale simulations and intricate algorithms. In this context, exascale computing and massively parallel heterogeneous architectures offer an exciting opportunity to tackle these challenges, helping address previously intractable issues and explore the frontiers of scientific knowledge. 
-  description2: In our work, we focus on developing scalable and universal libraries for electronic structure, quantum molecular dynamics, and light-matter interactions, harnessing the power of exascale computing to push the boundaries of what is possible in these fields. By optimizing our libraries for massively parallel and heterogeneous architectures, we aim to provide the research community with efficient and versatile tools for conducting large-scale simulations and investigating complex problems in materials science and quantum physics. This research has the potential to accelerate scientific discovery and serves as a critical step in realizing the full potential of exascale computing for advancing knowledge and innovation.
-  highlight: 0
 

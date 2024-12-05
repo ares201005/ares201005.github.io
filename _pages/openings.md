@@ -8,18 +8,18 @@ permalink: /openings
 
 ## Open positions
 
-**We are currently open for postdoc applications related to the DOE Basic Energy Science project. The positions are mostly associated with light-matter interactions in materials.**
+<!-- **We are currently open for postdoc applications related to the DOE Basic Energy Science project. The positions are mostly associated with light-matter interactions in materials.**
 
 We are looking for new group members with passion, talent, and grit!
 
 The successful candidate will contribute to our projects on polariton chemistry, cavity quantum materials, quantum computing, or quantum information science.
 
-<!--  developing multiscale methods and massively parallel algorithms for modeling polariton dynamics (or molecular quantum electrodynamics at large) on heterogeneous architectures. -->
-
-
 The initial appointment will be two years, with the possibility of a third-year extension upon mutual agreement.
 
 Applications are to be sent to me via [email](mailto:zhy@lanl.gov). State briefly why you are interested and attach a CV, including information about education, research, and publications.
+
+-->
+**I currently do not have regular postdoctoral openings. However, exceptional candidates may have opportunities to apply for prestigious Director's or Distinguished Postdoctoral Fellowships. Interested individuals are encouraged to contact [Yu Zhang](mailto:zhy@lanl.gov) directly for sponsorship.**
 
 ### Postdoc Fellowships
 
