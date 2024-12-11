@@ -72,7 +72,14 @@ iframe {
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ res.image }}" class="img-responsive" width="35%" style="float: left" />
   <p>{{ res.description }}</p>
   <p>{{ res.description2 }}</p>
-  <p><strong>{{ res.references }}</strong></p>
+  <!-- <p><strong>{{ res.references }}</strong></p> -->
+  <strong>References:</strong>
+  <ul>
+    {% assign references = res.references | split: ";" %}
+    {% for reference in references %}
+      <li>{{ reference | strip }}</li>
+    {% endfor %}
+  </ul>
  </div>
 </div>
 
