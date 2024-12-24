@@ -8,18 +8,20 @@ permalink: /openings
 
 ## Open positions
 
-<!-- **We are currently open for postdoc applications related to the DOE Basic Energy Science project. The positions are mostly associated with light-matter interactions in materials.**
+**Postdoc opening**: I have an opening for a postdoc position in my team within the theoretical division at the Los Alamos National Laboratory (LANL).
 
-We are looking for new group members with passion, talent, and grit!
+The candidates will be expected to work in the field of cavity quantum materials, an intersection between cavity quantum electrodynamics and quantum materials.
+The successful candidate will contribute to developing and applying quantum many-body methods to investigate the electronic, optical, and dynamical properties of quantum materials in various cavities.
+A solid background in electronic structure theory is desired.
 
-The successful candidate will contribute to our projects on polariton chemistry, cavity quantum materials, quantum computing, or quantum information science.
+The successful candidate will have the opportunity to engage with a dynamic, multi-disciplinary experimental and theoretical research team that bridges fundamental science with applications. We provide unique opportunities for cross disciplinary collaborations, scientific workshop organization, and conference attendance. Outstanding applicants may be nominated for prestigious LANL-funded fellowships, enabling the pursuit of independent research.
 
-The initial appointment will be two years, with the possibility of a third-year extension upon mutual agreement.
 
 Applications are to be sent to me via [email](mailto:zhy@lanl.gov). State briefly why you are interested and attach a CV, including information about education, research, and publications.
 
--->
+<!--
 **I currently do not have regular postdoctoral openings. However, exceptional candidates may have opportunities to apply for prestigious Director's or Distinguished Postdoctoral Fellowships. Interested individuals are encouraged to contact [Yu Zhang](mailto:zhy@lanl.gov) directly for sponsorship.**
+-->
 
 ### Postdoc Fellowships
 
