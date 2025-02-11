@@ -13,9 +13,9 @@
 
 - title: "Cavity quantum materials"
   short: "Light-induced quantum states and phase transition in low-dimensional materials: where Quantum materials meet cavities"
-  image: 
-  description: TBA.
-  description2: 
+  image: cavity_quantummaterials.png
+  description: Cavity Quantum Materials lie at the intersection of quantum materials and cavity quantum electrodynamics (QED), where the interplay between light and matter gives rise to emergent many-body phenomena. Our research focuses on developing and applying quantum many-body and multi-scale methods to uncover novel quantum phases, collective excitations, and non-equilibrium effects in materials embedded in cavities. By exploring how strong light-matter interactions modify electronic, magnetic, and topological properties, we aim to pave the way for engineered quantum states and functionalities in correlated materials.
+  description2:
   highlight: 1
 
 - title: "Plasmon chemistry"
