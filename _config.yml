@@ -13,7 +13,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Academic webpage of the Zhang Lab.
 baseurl: ""
 
-url        : https://ares201005.github.io # the base hostname "https://mmistakes.github.io"
+url        :  http://www.quant-minds.com/  # custom domain
+#url        : https://ares201005.github.io # the base hostname "https://mmistakes.github.io"
 repository : "ares201005/ares201005.github.io"
 
 # Google analytics ID: Uncomment and your own, if you like
