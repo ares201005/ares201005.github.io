@@ -4,7 +4,8 @@
   image: chicoma.png
   description2: In our work, we focus on developing scalable and universal libraries for electronic structure, quantum molecular dynamics, and light-matter interactions, harnessing the power of exascale computing to push the boundaries of what is possible in these fields. By optimizing our libraries for massively parallel and heterogeneous architectures, we aim to provide the research community with efficient and versatile tools for conducting large-scale simulations and investigating complex problems in materials science and quantum physics. This research has the potential to accelerate scientific discovery and serves as a critical step in realizing the full potential of exascale computing for advancing knowledge and innovation.
   description_old:  Exascale computing, characterized by its ability to perform calculations at an unprecedented scale, has the potential to revolutionize the study of complex phenomena in materials science and quantum physics. A deeper understanding of the electronic structure, quantum molecular dynamics, and light-matter interactions is essential for developing new materials, advanced quantum devices, and a wide range of other applications. However, the inherent complexity of these problems poses significant computational challenges, often requiring large-scale simulations and intricate algorithms. In this context, exascale computing and massively parallel heterogeneous architectures offer an exciting opportunity to tackle these challenges, helping address previously intractable issues and explore the frontiers of scientific knowledge.
-  highlight: 0
+  highlight: 1
+  references: CiSE 26, 43 (2024); J. Chem. Phys. 160, 122501 (2024).
 
 
 - title: "Bioinspired artificial ion pump"
@@ -18,11 +19,11 @@
   image: jpcl_interference2024.jpeg
   description:  I developed the time-dependent non-equilibrium Green's function (NEGF) methods to study for studying light-driven quantum transport phenonemna. The method has been used to understand the ultrafast control of currents through a SiO$_2$-based nanoscale, which recovered the main experimental observations and offers a simple and intuitive picture of the effect of ultrafast light control of currents along nanojunctions. This method was used by my collaborators to successfully predict the real and virtual charges in quantum transport, which was confirmed in a recent experiment [Nature, 605, 251–255 (2022)].
   highlight: 1
-  references: Nanoscale, 5, 169 (2013); Phys. Rev. B, 87, 085110 (2013); J. Chem. Phys., 138, 164121 (2013); Phys. Status Solidi B 250, 2481 (2013); J. Phys. Chem. Lett., 5, 2748 (2014); J. Chem. Phys., 142, 164101 (2015); J. Chem. Phys. 143, 104112 (2015); Nat. Commun., 9, 2070 (2018).
+  references: Nanoscale, 5, 169 (2013); Phys. Rev. B, 87, 085110 (2013); J. Chem. Phys., 138, 164121 (2013); Phys. Status Solidi B 250, 2481 (2013); J. Phys. Chem. Lett., 5, 2748 (2014); J. Chem. Phys., 142, 164101 (2015); J. Chem. Phys. 143, 104112 (2015); arXiv:1510.02960; Nat. Commun., 9, 2070 (2018).
 
 - title: "Quantum-mechanical (QM) and Multiscale QM/EM simulation of (opto)electronics"
   image: qm_emission.png
   description: Within the framework of the Non-equilibrium Green's Function (NEGF) method and many-body perturbation theory, I developed efficient quantum mechanical approaches for simulating nano photovoltaics and light-emitting devices. By developing fast and highly efficient massively parallel algorithms, my method allows the simulation of optoelectronic properties of realistic devices with dozens of thousands of atoms on a few computational nodes. The method has also been extended to study the thin-film devices and extended to integrate with the Maximally Localized Wannier Function-based Tight-Binding (TB) method. Besides, I further developed a multiscale quantum mechanics/electromagnetics method to model the optoelectronics in complex electromagnetic (EM) environments, such as plasmon-enhanced solar cells.
   highlight: 1
-  references: J. Phys. Chem. Lett., 5, 1272 (2014); Chem. Soc. Rev., 44, 1763 (2015); J. Phys. Chem. Lett., 6, 4410 (2015); Nanoscale, 8, 13168–13173 (2016); J. Phys. Chem. Lett., 8, 571 (2017); J. Phys. Chem. Lett., 9, 6915 (2018); J. Phys. Chem. C, 123, 15761 (2019);
+  references: J. Phys. Chem. Lett., 5, 1272 (2014); Chem. Soc. Rev., 44, 1763 (2015); J. Phys. Chem. Lett., 6, 4410 (2015); PIER 154, 163 (2015);  J. Comput. Phys. 286, 49 (2015); Nanoscale, 8, 13168–13173 (2016); J. Phys. Chem. Lett., 8, 571 (2017); J. Phys. Chem. Lett., 9, 6915 (2018); J. Phys. Chem. C, 123, 15761 (2019);
 

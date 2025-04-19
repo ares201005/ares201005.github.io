@@ -34,19 +34,20 @@ permalink: /cv/yuzhang/
 
 <b> Service </b>
 
- * Referee for 
-  
-   1. Peer-review journals: Phys. Rev. Lett./Appl./B/Mat., Joule, Adv. Mat., Adv. Func./Opt. Mat., J. Am. Chem. Soc., Nano Lett., ACS Photonics, J. Phys. Chem. A/B/C/Lett., J. Appl. Phys., Appl. Phys. Lett., J. Chem. Phys., ...
-   1. DOE BES programs 
+ * Referee for
+
+   1. Peer-review journals: Phys. Rev. Lett./Appl./B/Mat., Nat. Commun., Joule, Adv. Mat., Adv. Func./Opt. Mat., J. Am. Chem. Soc., Nano Lett., ACS Photonics, J. Chem. Theory Comput., J. Phys. Chem. A/B/C/Lett., J. Appl. Phys., Appl. Phys. Lett., J. Chem. Phys., Chem. Sci., Nanoscale, ...
+   1. DOE BES programs
    1. European Research Council (ERC)
+   1. Swiss National Science Foundation (SNSF)
    1. LDRD programs at Los Alamos National Laboratory
- 
+
  * Associate Editor of Philosophical Magazine, Part C: Quantum Materials and Device.
 
-<!-- 
+<!--
 <b> Academic Software Development </b>
 
-1. <a href="https://github.com/lanl/OpenMS">OpenMS</a> (under active development): Universal/Scalable multiscale ecosystem for solving coupled Maxwell-Schr\"odinger equations in open quantum environments. Current features include 1) FDTD solver for Maxwell equation, 2) QED quantum chemistry solvers (to be released), 3) Modular design for enhanced portability and extension, 4) different backends (Numpy, torch, TiledArray). Features under development include 1) Multiscale QED solvers, 2) Quantum transport, and 3) Quantum dynamics. 
+1. <a href="https://github.com/lanl/OpenMS">OpenMS</a> (under active development): Universal/Scalable multiscale ecosystem for solving coupled Maxwell-Schr\"odinger equations in open quantum environments. Current features include 1) FDTD solver for Maxwell equation, 2) QED quantum chemistry solvers (to be released), 3) Modular design for enhanced portability and extension, 4) different backends (Numpy, torch, TiledArray). Features under development include 1) Multiscale QED solvers, 2) Quantum transport, and 3) Quantum dynamics.
 
 1. <a href="http://yangtze.hku.hk/home/software.php">LODESTAR</a> (developed by Prof. Guanhua Chen's group at The University of Hong Kong): A quantum chemistry software package that implements the first-principles method and non-equilibrium Green's function technique for electronic structure, optical response, (time-dependent) quantum transport, and dissipation. The software is designed for the simulation of emerging electronics. My contributions include geometry optimization, time-dependent (dissipative) quantum transport, quantum transport with scattering, solar cell modeling, k-point sampling for supercells, fast algorithms, massively parallelization, etc.
 
@@ -60,6 +61,6 @@ permalink: /cv/yuzhang/
 
 1. <a href="https://github.com/lanl/qmd-progress">QMD-PROGRESS</a>: Parallel, Rapid O(N) and Graph-based Recursive Electronic Structure Solver. Written in Fortran.
 
-1. <a href="https://github.com/ares201005/phd.git">PHD</a>:  Code for Plasmonic Hot-carrier Dissipative Dynamics. It can calculate hot-carrier generation from plasmon decay, the effective temperature of hot-carriers, and dissipative dynamics of plasmonic hot-carriers via electron-electron and electron-phonon scattering. 
+1. <a href="https://github.com/ares201005/phd.git">PHD</a>:  Code for Plasmonic Hot-carrier Dissipative Dynamics. It can calculate hot-carrier generation from plasmon decay, the effective temperature of hot-carriers, and dissipative dynamics of plasmonic hot-carriers via electron-electron and electron-phonon scattering.
 -->
 
