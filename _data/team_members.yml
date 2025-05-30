@@ -1,10 +1,30 @@
+
+- name: Michael A. D. Taylor
+  photo: Mike.jpeg
+  info: Director's Postdoc Fellow, 07/2025 -
+  email:
+  number_educ: 2
+  education1: BSc in Optics, University of Rochester
+  education1: PhD in Optics (with Prof. Pengfei (Frank) Huo), University of Rochester
+  Research: Cavity Quantum Materials
+
+- name: Braden M. Weight
+  photo: braden.jpeg
+  info: Director's Postdoc Fellow, 05/2025 -
+  email:
+  number_educ: 3
+  education1: BSc in Physics/Chemistry, North Dakota State University
+  education2: Master in Physics, North Dakota State University
+  education3: PhD in Physics (with Prof. Pengfei (Frank) Huo), University of Rochester
+  Research: Polariton chemistry
+
 - name: Ilia Mazin
   photo: Ilia.jpeg
   info: Postdoc, 01/2024 - present
   email: imazin at lanl.gov
   number_educ: 2
   education1: BSc, Metropolitan State University of Denver
-  education2: PhD with Prof. Alexander Sokolov at The Ohio State University
+  education2: PhD (with Prof. Alexander Sokolov), The Ohio State University
   research: Ab initio cavity quantum chemistry
 
 - name: "This could be you !"

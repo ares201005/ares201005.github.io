@@ -81,7 +81,9 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 ### Postdocs
 
- **We are  looking for new Postdoc to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/openings) **!**
+<!--
+**We are  looking for new Postdoc to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/openings) **!**
+-->
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}

@@ -8,6 +8,7 @@ permalink: /openings
 
 ## Open positions
 
+<!--
 **Postdoc opening**: I have an <a href="https://lanl.jobs/Search/JobDetails/cavity-quantum-materials-postdoc-research-associate/9e1cc362-2fe0-4550-be48-516ad5a8efda">opening for a postdoc position</a> in my team within the theoretical division at the Los Alamos National Laboratory (LANL).
 
 The candidates will be expected to work in the field of cavity quantum materials, an intersection between cavity quantum electrodynamics and quantum materials.
@@ -18,16 +19,11 @@ The successful candidate will have the opportunity to engage with a dynamic, mul
 
 
 Applications are to be sent to me via [email](mailto:zhy@lanl.gov) or submitted via <a href="https://lanl.jobs/Search/JobDetails/cavity-quantum-materials-postdoc-research-associate/9e1cc362-2fe0-4550-be48-516ad5a8efda">LANL job portal</a>.
-
-<!--
-State briefly why you are interested and attach a CV, including information about education, research, and publications.
 -->
 
-<!--
 **I currently do not have regular postdoctoral openings. However, exceptional candidates may have opportunities to apply for prestigious Director's or Distinguished Postdoctoral Fellowships. Interested individuals are encouraged to contact [Yu Zhang](mailto:zhy@lanl.gov) directly for sponsorship.**
--->
 
-### Postdoc Fellowships
+### Director's Postdoc Fellow and Distinguished Fellows
 
 Truly outstanding applicants may apply for prestigious and highly competitive Director's and Oppenheimer's postdoctoral fellowships, which provide the opportunity to pursue independent research. Candidates for these positions need to be nominated by technical staff members. The winners are selected quarterly (Director's Fellow) or annually (Oppenheimer Fellow) and are determined by the strengths of the candidates' research proposals and their academic and research excellence. If you are interested in applying, send <b>a resume, publications list, statement of research interests, and future plans</b>, and arrange for <b>three recommendation letters</b> to Yu Zhang by [email](mailto:zhy@lanl.gov).
 
