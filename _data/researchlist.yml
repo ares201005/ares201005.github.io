@@ -4,12 +4,14 @@
   image: cluster_toc.png
   description: Quantum computers were proposed to be a game changer for chemistry and materials science modeling, but the tools are yet to be developed. Hybrid quantum-classical algorithms are the current state-of-the-art in the noisy intermediate-state quantum (NISQ) era. Existing advances such as variational quantum eigensolver (VQE) solvers need quality initial states (ansatzes) and a minimal number of qubits for each the problem at hand (currently limited to very small molecules only). Subsequently, casting the original problems in terms of novel quantum algorithms and software layers is a key ingredient for solving the quantum problem and demonstrating the practical utility of existing QC hardware. Our particular innovation is the development of algorithms able to achieve the qubit size reduction for quantum solver methods based on Quantum Graph Partitioning. In particular, we develop 1) Strategies and algorithms to perform static quantum chemistry calculations on medium-to-large size molecules on QCs; 2) Quantum molecular dynamics on QCs; 3) Krylov subspace algorithms for excited states and non-equilibrium molecular dynamics beyond the Born-Oppenheimer approximation.
   highlight: 1
+  references: arXiv:2406.08675; arXiv:2406.06625; J. Chem. Theory Comput. 19, 9136 (2014); Chem. Sci. 14, 2405 (2023); Sci. Rep. 12, 16824 (2022); J. Chem. Theory Comput. 18, 9, 5312 (2022); npj Quantum Info. 8, 96 (2022); J. Chem. Theory Comput. 18, 4177 (2022); Sci. Rep. 11, 18796 (2021); PRX Quantum 2, 020337 (2021);
 
 - title: "Cavity quantum chemistry"
   short: "Develop multiscale theory and corresponding massively parallel algorithms for molecular quantum electrodynamics"
   image: cavity_quantum_chemistry.png
   description: The polaritons formed due to the strong light-matter interaction are able to alter the molecular properties (polaritonic chemistry), which provides a promising way to establish coupled spin-polariton for achieving quantum transduction. However, the underlying mechanisms are unclear and require state-of-the-art ab initio modeling of polaritonic chemistry. Such modeling remains a big challenge because it involves multiple degrees of freedom and interactions across different time and length scales. While current theories (quantum optics and quantum chemistry) are good at treating the light-matter interaction in separate domains by simplifying either light or matter, there is no reliable and computationally feasible ab initio framework that can be used to predict emergent properties of polaritonic chemistry. To this aim, we aim to deliver new theoretical frameworks and ab initio quantum many-body modeling capabilities for polaritonic chemistry, which treats electronic and photonic degrees of freedom on an equal footing. Efficient numerical algorithms will be developed by leveraging our ongoing experience in exascale computing development. Modular programming will be adopted to enhance code’s maintainability, portability, and reusability on emergent computing architectures.
   highlight: 1
+  references: arXiv:2411.15022; arXiv:2410.16478; Phys. Rev. A. 109, 032804 (2024); J. Chem. Theory Comput. 20, 891 (2024); Nat. Commun., 8035 (2023); arXiv:2310.18228; Phys. Chem. Chem. Phys. 25, 31554 (2023); J. Chem. Phys. 151, 154109 (2019).
 
 - title: "Cavity quantum materials"
   short: "Light-induced quantum states and phase transition in low-dimensional materials: where Quantum materials meet cavities"
@@ -17,12 +19,21 @@
   description: Cavity Quantum Materials lie at the intersection of quantum materials and cavity quantum electrodynamics (QED), where the interplay between light and matter gives rise to emergent many-body phenomena. Our research focuses on developing and applying quantum many-body and multi-scale methods to uncover novel quantum phases, collective excitations, and non-equilibrium effects in materials embedded in cavities. By exploring how strong light-matter interactions modify electronic, magnetic, and topological properties, we aim to pave the way for engineered quantum states and functionalities in correlated materials.
   description2:
   highlight: 1
+  references: arXiv:2411.15022;
 
-- title: "Plasmon chemistry"
+- title: "Plasmon physics & chemistry"
   short: "Develop and apply theoretical models and numerical methods to understand the physics of plasmon-mediated chemistry"
   image: plasmon_pes.png
   description:  Plasmon chemistry is an emerging field that investigates the interactions between plasmonic excitations and chemical processes, with potential applications in areas such as energy conversion, photocatalysis, sensing, and nanotechnology. In this project, we focus on advancing the understanding of plasmon chemistry by developing a comprehensive physical model, first-principles methods, and non-adiabatic dynamics to elucidate the underlying mechanisms governing plasmon-driven chemical reactions. Our work encompasses the systematic investigation of localized surface plasmon resonances (LSPRs) and their influence on chemical processes at the nanoscale. By employing state-of-the-art computational techniques and rigorous theoretical frameworks, we aim to provide a fundamental understanding of the interplay between plasmonic excitations, electron transfer, and reactive pathways. This knowledge will serve as a foundation for the rational design of advanced plasmonic materials and devices, with potential applications in diverse fields such as photocatalysis, sensing, and energy conversion.
   highlight: 1
+  references: Chem. Sci. 14, 4714 (2023); J. Chem. Phys. 157, 214201 (2022); J. Chem. Phys. 157, 084114 (2022); J. Phys. Chem. A 125, 9201 (2021); J. Am. Chem. Soc.  142, 13090 (2020); Acs Nano 12, 8415 (2018); J. Phys. Chem. Lett. 7, 1852 (2016).
+
+- title: "Nonadiabatic dynamics & Shadow molecular dynamics"
+  short: ""
+  image: namd.png
+  description:
+  highlight: 0
+  references: J. Chem. Theory Comput. 19, 5356 (2023); arXiv:2303.03655;  arXiv:2303.03529; J. Chem. Theory Comput. 17, 3629 (2020); J. Chem. Theory Comput. 16, 6418 (2020); J. Chem. Theory Comput. 16, 5771 (2020); J. Chem. Theory Comput. 16, 2053 (2020); Chem. Rev. 120, 2215 (2020);
 
 - title: "Molecular quantum information science"
   short: "Spin dynamics in the presence of spin-spin and spin-phonon interactions and quantum information transduction"
@@ -30,5 +41,5 @@
   description:  Due to their unique properties and advantages over other qubit systems, molecular qubits have emerged as promising candidates for quantum information processing and quantum computing technologies. The synthetic versatility of molecular compounds allows for the tailoring of magnetic properties, enabling the design of materials with specific characteristics for various applications. Moreover, molecular qubits often exhibit long coherence times and can be integrated into scalable architectures, making them suitable for developing advanced quantum devices. However, understanding the relaxation dynamics of molecular qubits, particularly the spin-spin and spin-phonon interactions, is a crucial challenge that must be addressed to harness their potential fully. Traditional first-principles methods for simulating these interactions can be computationally expensive. 
   description2: In this research project, we focus on developing a first-principles-based method that employs a quantum embedding technique to tackle these challenges. This approach significantly reduces the computational cost while maintaining high accuracy, allowing for a deeper understanding of the relaxation dynamics of molecular qubits. By efficiently modeling the complex interplay between spin-spin and spin-phonon interactions, our method will not only pave the way for substantial advancements in quantum information processing but also enable the exploration of previously intractable problems in studying molecular qubits. The development of such a method is essential for realizing the full potential of molecular qubits and fostering the growth of quantum information technologies.
   highlight: 1
-
+  references: arXiv preprint arXiv:2407.08043; arXiv preprint arXiv:2407.07843.
 
