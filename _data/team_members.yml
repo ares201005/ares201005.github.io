@@ -1,11 +1,20 @@
 
+- name: Jacob Z. Williams
+  photo: Jacob.jpg
+  info: Postdoc Fellow, 08/2025 -
+  email:
+  number_educ: 2
+  education1: BSc in Chemistry, University of Wyoming
+  education2: PhD in Chemistry (with Prof. Weitao Yang), Duke University
+  Research: Cavity Quantum Chemistry/Materials
+
 - name: Michael A. D. Taylor
   photo: Mike.jpeg
   info: Director's Postdoc Fellow, 07/2025 -
   email:
   number_educ: 2
   education1: BSc in Optics, University of Rochester
-  education1: PhD in Optics (with Prof. Pengfei (Frank) Huo), University of Rochester
+  education2: PhD in Optics (with Prof. Pengfei (Frank) Huo), University of Rochester
   Research: Cavity Quantum Materials
 
 - name: Braden M. Weight

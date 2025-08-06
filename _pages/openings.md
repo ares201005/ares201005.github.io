@@ -9,19 +9,18 @@ permalink: /openings
 ## Open positions
 
 <!--
-**Postdoc opening**: I have an <a href="https://lanl.jobs/Search/JobDetails/cavity-quantum-materials-postdoc-research-associate/9e1cc362-2fe0-4550-be48-516ad5a8efda">opening for a postdoc position</a> in my team within the theoretical division at the Los Alamos National Laboratory (LANL).
+**I currently do not have regular postdoctoral openings. However, exceptional candidates may have opportunities to apply for prestigious Director's or Distinguished Postdoctoral Fellowships. Interested individuals are encouraged to contact [Yu Zhang](mailto:zhy@lanl.gov) directly for sponsorship.**
 
-The candidates will be expected to work in the field of cavity quantum materials, an intersection between cavity quantum electrodynamics and quantum materials.
-The successful candidate will contribute to developing and applying quantum many-body methods to investigate the electronic, optical, and dynamical properties of quantum materials in various cavities.
-A solid background in electronic structure theory is desired.
-
-The successful candidate will have the opportunity to engage with a dynamic, multi-disciplinary experimental and theoretical research team that bridges fundamental science with applications. We provide unique opportunities for cross disciplinary collaborations, scientific workshop organization, and conference attendance. Outstanding applicants may be nominated for prestigious LANL-funded fellowships, enabling the pursuit of independent research.
-
-
-Applications are to be sent to me via [email](mailto:zhy@lanl.gov) or submitted via <a href="https://lanl.jobs/Search/JobDetails/cavity-quantum-materials-postdoc-research-associate/9e1cc362-2fe0-4550-be48-516ad5a8efda">LANL job portal</a>.
 -->
 
-**I currently do not have regular postdoctoral openings. However, exceptional candidates may have opportunities to apply for prestigious Director's or Distinguished Postdoctoral Fellowships. Interested individuals are encouraged to contact [Yu Zhang](mailto:zhy@lanl.gov) directly for sponsorship.**
+**Postdoc opening**: I have two postdoc openings in my team, on <a href="https://lanl.jobs/search/jobdetails/quantum-computing-postdoc-research-associate/afc66a71-5714-4906-933e-017ca44f62be">quantum computing</a> and nuclear quantum dynamics, respectively.
+
+The successful candidates will have the opportunity to engage with a dynamic, multi-disciplinary experimental and theoretical research team that bridges fundamental science with applications. We provide unique opportunities for cross disciplinary collaborations, scientific workshop organization, and conference attendance. Outstanding applicants may be nominated for prestigious LANL-funded fellowships, enabling the pursuit of independent research.
+
+Applications (for quantum computing postdoc position) can be sent to me via [email](mailto:zhy@lanl.gov) or submitted via <a href="https://lanl.jobs/search/jobdetails/quantum-computing-postdoc-research-associate/afc66a71-5714-4906-933e-017ca44f62be">LANL job portal</a>.
+
+Application for nuclear quantum dynamics postdoc position should be sent me via [email](mailto:zhy@lanl.gov) as job ad for this position is not posted on LANL job portal yet.
+
 
 ### Director's Postdoc Fellow and Distinguished Fellows
 
