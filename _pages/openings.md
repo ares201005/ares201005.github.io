@@ -8,20 +8,24 @@ permalink: /openings
 
 ## Open positions
 
+**Postdoc opening**:
+We have two postdoctoral openings in our team within the Theoretical Division at Los Alamos National Laboratory (LANL), focused on advancing research in quantum computing and nuclear quantum dynamics.
+
+
+**Quantum Computing**
+
+This position centers on developing quantum algorithms at the interface of quantum embedding theory and quantum information science. The successful candidate will work as part of a multidisciplinary team to design and implement quantum-centric embedding algorithms for treating strongly correlated systems, with applications to chemistry and materials science. The project is part of a newly funded effort that integrates fundamental theory with practical quantum algorithm development on emerging quantum hardware. For details and to apply, please visit: Quantum Computing Postdoc Opening or search Job ID: IRC139669 at https://lanl.jobs.
+
+**Nuclear Quantum Dynamics**
+
+This position focuses on the development of quantum dynamics methods for modeling nuclear quantum effects in molecular and condensed phase systems. The candidate will contribute to new theoretical frameworks and computational techniques to capture phenomena such as quantum tunneling, zero-point motion, and coherence effects in complex environments. This work has broad relevance to energy materials, spectroscopy, and chemical reactivity. Candidates with a background in quantum dynamics, theoretical chemistry, or condensed matter theory are encouraged to apply. Additional details will be shared soon—please reach out for more information or to express early interest.
+
+
+Applications are to be sent to me via [email](mailto:zhy@lanl.gov) or submitted via the LANL job portal: <a href="https://www.linkedin.com/feed/update/urn:li:activity:7352033513690320896/">quantum computing</a> and <a href="">nuclear quantum effect</a>.
+
 <!--
-**Postdoc opening**: I have an <a href="https://lanl.jobs/Search/JobDetails/cavity-quantum-materials-postdoc-research-associate/9e1cc362-2fe0-4550-be48-516ad5a8efda">opening for a postdoc position</a> in my team within the theoretical division at the Los Alamos National Laboratory (LANL).
-
-The candidates will be expected to work in the field of cavity quantum materials, an intersection between cavity quantum electrodynamics and quantum materials.
-The successful candidate will contribute to developing and applying quantum many-body methods to investigate the electronic, optical, and dynamical properties of quantum materials in various cavities.
-A solid background in electronic structure theory is desired.
-
-The successful candidate will have the opportunity to engage with a dynamic, multi-disciplinary experimental and theoretical research team that bridges fundamental science with applications. We provide unique opportunities for cross disciplinary collaborations, scientific workshop organization, and conference attendance. Outstanding applicants may be nominated for prestigious LANL-funded fellowships, enabling the pursuit of independent research.
-
-
-Applications are to be sent to me via [email](mailto:zhy@lanl.gov) or submitted via <a href="https://lanl.jobs/Search/JobDetails/cavity-quantum-materials-postdoc-research-associate/9e1cc362-2fe0-4550-be48-516ad5a8efda">LANL job portal</a>.
--->
-
 **I currently do not have regular postdoctoral openings. However, exceptional candidates may have opportunities to apply for prestigious Director's or Distinguished Postdoctoral Fellowships. Interested individuals are encouraged to contact [Yu Zhang](mailto:zhy@lanl.gov) directly for sponsorship.**
+-->
 
 ### Director's Postdoc Fellow and Distinguished Fellows
 

@@ -1,4 +1,13 @@
 
+- name: Chance Lander
+  photo: chance.jpeg
+  info: Summer GRA,  2023
+  email:
+  duration: Summer of 2023
+  education1: BSc in Biochemistry, University of Texas at Dallas
+  education2: PhD candidate with Prof. Yihan Shao at The University of Oklahoma
+  research: Semiempirical methods
+
 - name: Xinyang Li
   photo: xinyang.jpeg
   info:  Postdoc
