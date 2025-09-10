@@ -25,7 +25,18 @@ Applications are to be sent to me via [email](mailto:zhy@lanl.gov) or submitted 
 
 <!--
 **I currently do not have regular postdoctoral openings. However, exceptional candidates may have opportunities to apply for prestigious Director's or Distinguished Postdoctoral Fellowships. Interested individuals are encouraged to contact [Yu Zhang](mailto:zhy@lanl.gov) directly for sponsorship.**
+
 -->
+
+**Postdoc opening**: I have two postdoc openings in my team, on <a href="https://lanl.jobs/search/jobdetails/quantum-computing-postdoc-research-associate/afc66a71-5714-4906-933e-017ca44f62be">quantum computing</a> and nuclear quantum dynamics, respectively.
+
+The successful candidates will have the opportunity to engage with a dynamic, multi-disciplinary experimental and theoretical research team that bridges fundamental science with applications. We provide unique opportunities for cross disciplinary collaborations, scientific workshop organization, and conference attendance. Outstanding applicants may be nominated for prestigious LANL-funded fellowships, enabling the pursuit of independent research.
+
+Applications (for quantum computing postdoc position) can be sent to me via [email](mailto:zhy@lanl.gov) or submitted via <a href="https://lanl.jobs/search/jobdetails/quantum-computing-postdoc-research-associate/afc66a71-5714-4906-933e-017ca44f62be">LANL job portal</a>.
+
+Application for nuclear quantum dynamics postdoc position should be sent me via [email](mailto:zhy@lanl.gov) as job ad for this position is not posted on LANL job portal yet.
+
+>>>>>>> 3071fa5dc9f4712447f9a9e4cf3f3898cc4e9dc9
 
 ### Director's Postdoc Fellow and Distinguished Fellows
 
