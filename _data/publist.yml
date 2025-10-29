@@ -8,6 +8,42 @@
      display: tba
   highlight: 0
 
+- title: "Harnessing Intrinsic Noise for Quantum Simulation of Open Quantum Systems"
+  image: noise_simulation_toc.png
+  description: We develop a noise-assisted quantum algorithm that selectively preserves physical noise to emulate nonunitary channels, enabling efficient simulation of open quantum dynamics with minimal qubit requirements. Our approach applies both to noisy intermediate-scale quantum (NISQ) devices and future fault-tolerant architectures.
+  authors: Sameer Dambal, Akira Sone\*, Yu Zhang\*
+  link:
+     url: https://arxiv.org/abs/2510.21075
+     display: arXiv:2510.21075
+  highlight: 1
+
+- title: "A Perspective on Quantum Computing Applications in Quantum Chemistry using 25--100 Logical Qubits"
+  image: quantum_perspective_toc.jpg
+  description:  This perspective focuses on identifying scientifically meaningful use cases where early fault-tolerant quantum computers, which are considered to be equipped with approximately 25–100 logical qubits, could deliver tangible impact. While recent advances in classical computing have pushed the boundaries of tractable simulations to unprecedented scales, this logical-qubit regime represents the first window where quantum devices can pursue qualitatively distinct strategies. We highlight near-term opportunities in algorithm and software design, discuss representative chemical problems suited for quantum acceleration, and propose strategic roadmaps and collaborative pathways for advancing practical quantum utility in quantum chemistry.
+  authors: Yuri Alexeev, Victor S Batista, Nicholas Bauman, Luke Bertels, Daniel Claudino, Rishab Dutta, Laura Gagliardi, Scott Godwin, Niranjan Govind, Martin Head-Gordon, Matthew Hermes, Karol Kowalski, Ang Li, Chenxu Liu, Junyu Liu, Ping Liu, Juan M Garcia-Lustra, Daniel Mejia-Rodriguez, Karl Mueller, Matthew Otten, Bo Peng, Mark Raugus, Markus Reiher, Paul Rigor, Wendy Shaw, Mark van Schilfgaarde, Tejs Vegge, Yu Zhang, Muqing Zheng, Linghua Zhu
+  link:
+     url: https://arxiv.org/abs/2506.19337
+     display: arXiv:2506.19337; J. Chem. Theory Comput. in press (2025)
+  highlight: 1
+
+- title: "Scalable Quantum Monte Carlo Method for Polariton Chemistry via Mixed Block Sparsity and Tensor Hypercontraction Method"
+  image: QMC_BS_THC.png
+  description:  We present a reduced-scaling auxiliary-field quantum Monte Carlo (AFQMC) framework designed for large molecular systems and ensembles, with or without coupling to optical cavities. Our approach leverages the natural block sparsity of Cholesky decomposition (CD) of electron repulsion integrals in molecular ensembles and employs tensor hypercontraction (THC) to efficiently compress low-rank Cholesky blocks. By representing the Cholesky vectors in a mixed format, keeping high-rank blocks in block-sparse form and compressing low-rank blocks with THC, we reduce the scaling of exchange-energy evaluation from quartic to robust cubic in the number of molecular orbitals, while lowering memory from cubic toward quadratic.
+  authors: Yu Zhang\*
+  link:
+     url: https://arxiv.org/abs/2510.11634
+     display: arXiv preprint arXiv:2510.11634
+  highlight: 1
+
+- title: "Perspective on Many-Body Methods for Molecular Polaritonic Systems"
+  image: polariton_perspective_toc.jpeg
+  description:  In this Perspective, we review the growing landscape of many-body QED methods, including Hartree–Fock, density functional theory (QEDFT), time-dependent DFT (QED-TDDFT), configuration interaction (QED-CI), complete active space (QED-CASSCF), coupled cluster (QED-CC), quantum Monte Carlo (QED-QMC), and density matrix renormalization group (QED-DMRG), highlighting recent developments and implementations. We further explore real-time methods, gradient and Hessian formalisms, and the integration of nonadiabatic nuclear dynamics.
+  authors: Nicholas Bauman, Leonardo A Cunha, A Eugene DePrince III, Johannes Flick, Jonathan J Foley IV, Niranjan Govind, Gerrit Groenhof, Norah Hoffmann, Karol Kowalski, Xiaosong Li, Marcus Liebenthal, Neepa T Maitra, Ruby Manderna, Mikuláš Matoušek, Ilia M Mazin, Daniel Mejia-Rodriguez, Ajay Panyala, Bo Peng, Benjamin Peyton, Libor Veis, Nam Vu, Jared D Weidman, Angela K Wilson, Rhiannon A Zarotiadis, Yu Zhang
+  link:
+     url: https://doi.org/10.1021/acs.jctc.5c00801
+     display: J. Chem. Theory Comput. 21, 10035 (2025).
+  highlight: 1
+
 - title: "Light-Matter Hybridization and Entanglement from the First-Principles"
   image: vsq_qedhf_example.png
   description: This work extends the quantum electrodynamics Hartree-Fock (QEDHF) framework by introducing a variational squeezed (VSQ) transformation to capture anharmonic fluctuations in strongly coupled systems. Unlike the conventional product-state QEDHF approach, this enhanced formalism incorporates light-matter entanglement by optimizing squeezing parameters, improving the accuracy of photon field quantum fluctuation descriptions. The proposed method provides deeper insights into light-matter hybridization and enables first-principles studies of entanglement, advancing the predictive capabilities of QEDHF in strong coupling regimes.
