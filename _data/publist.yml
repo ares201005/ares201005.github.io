@@ -8,6 +8,15 @@
      display: tba
   highlight: 0
 
+- title: "Restoring Bloch's Theorem for Cavity Exciton Polaron-Polaritons"
+  image: Bloch_excitonpolariton.png
+  description: We introduce a symmetry-informed representation for hybrid photon--exciton--phonon quantum electrodynamics Hamiltonians to restore Bloch's theorem. The interchange of momenta between fermions and bosons breaks crystalline excitons' translational symmetry under strong coupling. Restoring said symmetry, we efficiently compute experimentally accessible observables without introducing approximations to the Hamiltonian, enabling investigations that elucidate material properties in strong coupling with applications enhancing coherent transport and unlocking symmetry-forbidden matter transitions.
+  authors: Michael A.D. Taylor\*, Yu Zhang\*
+  link:
+     url: https://arxiv.org/abs/2601.03230
+     display: arXiv:2601.03230
+  highlight: 1
+
 - title: "Harnessing Intrinsic Noise for Quantum Simulation of Open Quantum Systems"
   image: noise_simulation_toc.png
   description: We develop a noise-assisted quantum algorithm that selectively preserves physical noise to emulate nonunitary channels, enabling efficient simulation of open quantum dynamics with minimal qubit requirements. Our approach applies both to noisy intermediate-scale quantum (NISQ) devices and future fault-tolerant architectures.
@@ -19,7 +28,7 @@
 
 - title: "A Perspective on Quantum Computing Applications in Quantum Chemistry using 25--100 Logical Qubits"
   image: quantum_perspective_toc.jpg
-  description:  This perspective focuses on identifying scientifically meaningful use cases where early fault-tolerant quantum computers, which are considered to be equipped with approximately 25–100 logical qubits, could deliver tangible impact. While recent advances in classical computing have pushed the boundaries of tractable simulations to unprecedented scales, this logical-qubit regime represents the first window where quantum devices can pursue qualitatively distinct strategies. We highlight near-term opportunities in algorithm and software design, discuss representative chemical problems suited for quantum acceleration, and propose strategic roadmaps and collaborative pathways for advancing practical quantum utility in quantum chemistry.
+  description:  This perspective focuses on identifying scientifically meaningful use cases where early fault-tolerant quantum computers, which are considered to be equipped with approximately 25–100 logical qubits, could deliver tangible impact. We highlight near-term opportunities in algorithm and software design, discuss representative chemical problems suited for quantum acceleration, and propose strategic roadmaps and collaborative pathways for advancing practical quantum utility in quantum chemistry.
   authors: Yuri Alexeev, Victor S Batista, Nicholas Bauman, Luke Bertels, Daniel Claudino, Rishab Dutta, Laura Gagliardi, Scott Godwin, Niranjan Govind, Martin Head-Gordon, Matthew Hermes, Karol Kowalski, Ang Li, Chenxu Liu, Junyu Liu, Ping Liu, Juan M Garcia-Lustra, Daniel Mejia-Rodriguez, Karl Mueller, Matthew Otten, Bo Peng, Mark Raugus, Markus Reiher, Paul Rigor, Wendy Shaw, Mark van Schilfgaarde, Tejs Vegge, Yu Zhang, Muqing Zheng, Linghua Zhu
   link:
      url: https://arxiv.org/abs/2506.19337
