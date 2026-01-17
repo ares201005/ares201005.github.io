@@ -1,8 +1,8 @@
 
 - title: "Quantum computing"
-  short: "Development of quantum algorithms for quantum chemistry and quantum many-body physics, including ground state, excited state, and nonadiabatic (both mixed quantum-classical and quantum) dynamics"
+  short: "Development of quantum algorithms for quantum chemistry and quantum many-body physics, including ground state, excited state, nonadiabatic (both mixed quantum-classical and quantum) dynamics, open quantum systems, and beyond"
   image: cluster_toc.png
-  description: Quantum computers were proposed to be a game changer for chemistry and materials science modeling, but the tools are yet to be developed. Hybrid quantum-classical algorithms are the current state-of-the-art in the noisy intermediate-state quantum (NISQ) era. Existing advances such as variational quantum eigensolver (VQE) solvers need quality initial states (ansatzes) and a minimal number of qubits for each the problem at hand (currently limited to very small molecules only). Subsequently, casting the original problems in terms of novel quantum algorithms and software layers is a key ingredient for solving the quantum problem and demonstrating the practical utility of existing QC hardware. Our particular innovation is the development of algorithms able to achieve the qubit size reduction for quantum solver methods based on Quantum Graph Partitioning. In particular, we develop 1) Strategies and algorithms to perform static quantum chemistry calculations on medium-to-large size molecules on QCs; 2) Quantum molecular dynamics on QCs; 3) Krylov subspace algorithms for excited states and non-equilibrium molecular dynamics beyond the Born-Oppenheimer approximation.
+  description: Quantum computers were long envisioned as game changers for chemistry and materials modeling, but truly efficient quantum algorithms remain elusive. Our team is developing circuit-efficient, noise-resilient quantum algorithms to (i) estimate energies in quantum many-body systems and (ii) simulate quantum dynamics in complex environments on forthcoming fault-tolerant quantum computers, while identifying where genuine quantum advantage may emerge in quantum many-body physics.
   highlight: 1
   references: arXiv:2512.14842; arXiv:2511.13038; arXiv:2510.21075; arXiv:2406.08675; arXiv:2406.06625; J. Chem. Theory Comput. 19, 9136 (2014); Chem. Sci. 14, 2405 (2023); Sci. Rep. 12, 16824 (2022); J. Chem. Theory Comput. 18, 9, 5312 (2022); npj Quantum Info. 8, 96 (2022); J. Chem. Theory Comput. 18, 4177 (2022); Sci. Rep. 11, 18796 (2021); PRX Quantum 2, 020337 (2021);
 
@@ -16,10 +16,18 @@
 - title: "Cavity quantum materials"
   short: "Light-induced quantum states and phase transition in low-dimensional materials: where Quantum materials meet cavities"
   image: cavity_quantummaterials.png
-  description: Cavity Quantum Materials lie at the intersection of quantum materials and cavity quantum electrodynamics (QED), where the interplay between light and matter gives rise to emergent many-body phenomena. Our research focuses on developing and applying quantum many-body and multi-scale methods to uncover novel quantum phases, collective excitations, and non-equilibrium effects in materials embedded in cavities. By exploring how strong light-matter interactions modify electronic, magnetic, and topological properties, we aim to pave the way for engineered quantum states and functionalities in correlated materials.
+  description: Cavity Quantum Materials lie at the intersection of quantum materials and cavity QED, where the interplay between light and matter gives rise to emergent many-body phenomena. Our research focuses on developing and applying quantum many-body and multi-scale methods to uncover novel quantum phases, collective excitations, and non-equilibrium effects in materials embedded in cavities. By exploring how strong light-matter interactions modify electronic, magnetic, and topological properties, we aim to pave the way for engineered quantum states and functionalities in correlated materials.
   description2:
   highlight: 1
   references: arXiv:2601.03230; arXiv:2411.15022;
+
+- title: "Tensor network and nuclear quantum dynamics"
+  short: "Development of efficient tensor network methods for quantum dynamics"
+  image:
+  description:
+  highlight: 1
+  references: TBA.
+
 
 - title: "Plasmon physics & chemistry"
   short: "Develop and apply theoretical models and numerical methods to understand the physics of plasmon-mediated chemistry"

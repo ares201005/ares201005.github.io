@@ -36,7 +36,7 @@ permalink: /cv/yuzhang/
 
  * Referee for
 
-   1. Peer-review journals: Phys. Rev. Lett./Appl./B/Mat., Nat. Commun., Joule, Adv. Mat., Adv. Func./Opt. Mat., J. Am. Chem. Soc., Nano Lett., ACS Photonics, J. Chem. Theory Comput., J. Phys. Chem. A/B/C/Lett., J. Appl. Phys., Appl. Phys. Lett., J. Chem. Phys., Chem. Sci., Nanoscale, ...
+   1. Peer-review journals: Phys. Rev. Lett./Appl./B/Mat., Nature, Nat. Commun., Joule, Adv. Mat., Adv. Func./Opt. Mat., J. Am. Chem. Soc., Nano Lett., ACS Photonics, J. Chem. Theory Comput., J. Phys. Chem. A/B/C/Lett., J. Appl. Phys., Appl. Phys. Lett., J. Chem. Phys., Chem. Sci., Nanoscale, ...
    1. DOE BES programs
    1. European Research Council (ERC)
    1. Swiss National Science Foundation (SNSF)
@@ -63,4 +63,3 @@ permalink: /cv/yuzhang/
 
 1. <a href="https://github.com/ares201005/phd.git">PHD</a>:  Code for Plasmonic Hot-carrier Dissipative Dynamics. It can calculate hot-carrier generation from plasmon decay, the effective temperature of hot-carriers, and dissipative dynamics of plasmonic hot-carriers via electron-electron and electron-phonon scattering.
 -->
-
