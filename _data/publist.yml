@@ -8,6 +8,16 @@
      display: tba
   highlight: 0
 
+- title: "Scalable Quantum Monte Carlo Method for Polariton Chemistry via Mixed Block Sparsity and Tensor Hypercontraction Method"
+  image: jctc_qmcmany2026.jpg
+  description:  We present a reduced-scaling auxiliary-field quantum Monte Carlo (AFQMC) framework designed for large molecular systems and ensembles, with or without coupling to optical cavities. Our approach leverages the natural block sparsity of Cholesky decomposition (CD) of electron repulsion integrals in molecular ensembles and employs tensor hypercontraction (THC) to efficiently compress low-rank Cholesky blocks. By representing the Cholesky vectors in a mixed format, keeping high-rank blocks in block-sparse form and compressing low-rank blocks with THC, we reduce the scaling of exchange-energy evaluation from quartic to robust cubic in the number of molecular orbitals, while lowering memory from cubic toward quadratic.
+  authors: Yu Zhang\*
+  link:
+     url: https://doi.org/10.1021/acs.jctc.5c01925
+     display: J. Chem. Theory Comput. 22, 1770 (2026).
+  highlight: 1
+
+
 - title: "Restoring Bloch's Theorem for Cavity Exciton Polaron-Polaritons"
   image: Bloch_excitonpolariton.png
   description: We introduce a symmetry-informed representation for hybrid photon--exciton--phonon quantum electrodynamics Hamiltonians to restore Bloch's theorem. The interchange of momenta between fermions and bosons breaks crystalline excitons' translational symmetry under strong coupling. Restoring said symmetry, we efficiently compute experimentally accessible observables without introducing approximations to the Hamiltonian, enabling investigations that elucidate material properties in strong coupling with applications enhancing coherent transport and unlocking symmetry-forbidden matter transitions.
@@ -33,15 +43,6 @@
   link:
      url: https://arxiv.org/abs/2506.19337
      display: arXiv:2506.19337; J. Chem. Theory Comput. in press (2025)
-  highlight: 1
-
-- title: "Scalable Quantum Monte Carlo Method for Polariton Chemistry via Mixed Block Sparsity and Tensor Hypercontraction Method"
-  image: QMC_BS_THC.png
-  description:  We present a reduced-scaling auxiliary-field quantum Monte Carlo (AFQMC) framework designed for large molecular systems and ensembles, with or without coupling to optical cavities. Our approach leverages the natural block sparsity of Cholesky decomposition (CD) of electron repulsion integrals in molecular ensembles and employs tensor hypercontraction (THC) to efficiently compress low-rank Cholesky blocks. By representing the Cholesky vectors in a mixed format, keeping high-rank blocks in block-sparse form and compressing low-rank blocks with THC, we reduce the scaling of exchange-energy evaluation from quartic to robust cubic in the number of molecular orbitals, while lowering memory from cubic toward quadratic.
-  authors: Yu Zhang\*
-  link:
-     url: https://arxiv.org/abs/2510.11634
-     display: arXiv preprint arXiv:2510.11634
   highlight: 1
 
 - title: "Perspective on Many-Body Methods for Molecular Polaritonic Systems"
