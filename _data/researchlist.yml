@@ -23,8 +23,8 @@
 
 - title: "Tensor network and nuclear quantum dynamics"
   short: "Development of efficient tensor network methods for quantum dynamics"
-  image:
-  description:
+  image: ttn14.png
+  description: We aim to develop efficient tree tensor network (TTN)-based quantum dynamics methods for both closed and open quantum system.
   highlight: 1
   references: TBA.
 
