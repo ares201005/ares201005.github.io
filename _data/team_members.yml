@@ -1,4 +1,13 @@
 
+- name: Troy Losey
+  photo: Troy.jpg
+  info: Postdoc Fellow, 03/2026 -
+  email:
+  number_educ: 2
+  education1: B.S. in Engineering Physics, Ohio State University
+  education2: Ph.D. in Physics (with Prof. Shan-Wen Tsai), UC Riverside
+  research: Quantum Computing
+
 - name: Jacob Z. Williams
   photo: Jacob.jpg
   info: Postdoc Fellow, 08/2025 -
@@ -6,7 +15,7 @@
   number_educ: 2
   education1: BSc in Chemistry, University of Wyoming
   education2: PhD in Chemistry (with Prof. Weitao Yang), Duke University
-  Research: Cavity Quantum Chemistry/Materials
+  research: Cavity Quantum Chemistry/Materials and quantum computing
 
 - name: Michael A. D. Taylor
   photo: Mike.jpeg
@@ -15,7 +24,7 @@
   number_educ: 2
   education1: BSc in Optics, University of Rochester
   education2: PhD in Optics (with Prof. Pengfei (Frank) Huo), University of Rochester
-  Research: Cavity Quantum Materials
+  research: Cavity Quantum Materials and quantum computing.
 
 - name: Braden M. Weight
   photo: braden.jpeg
@@ -25,7 +34,7 @@
   education1: BSc in Physics/Chemistry, North Dakota State University
   education2: Master in Physics, North Dakota State University
   education3: PhD in Physics (with Prof. Pengfei (Frank) Huo), University of Rochester
-  Research: Polariton chemistry
+  research:
 
 - name: Ilia Mazin
   photo: Ilia.jpeg
@@ -39,8 +48,6 @@
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="">openings</a> for more info
-  email: zhy@lanl.gov
+  email:
   number_educ: 0
   education1:
-  education2:
-  education3:
