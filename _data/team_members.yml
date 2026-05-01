@@ -1,4 +1,13 @@
 
+- name: Ryan Spencer
+  photo: ryan.png
+  info: Postdoc Fellow, 05/2026 -
+  email:
+  number_educ: 2
+  education1: B.S. in chemistry, Brigham Young University-Idaho
+  education2: Ph.D. in Chemistry (with Prof. Ryan P. Steele), The University of Utah
+  research: Nuclear Quantum effect and quantum computing
+
 - name: Troy Losey
   photo: Troy.jpg
   info: Postdoc Fellow, 03/2026 -
@@ -6,7 +15,7 @@
   number_educ: 2
   education1: B.S. in Engineering Physics, Ohio State University
   education2: Ph.D. in Physics (with Prof. Shan-Wen Tsai), UC Riverside
-  research: Quantum Computing
+  research: Tensor network and Quantum Computing
 
 - name: Jacob Z. Williams
   photo: Jacob.jpg
