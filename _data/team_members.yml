@@ -1,4 +1,14 @@
 
+
+- name: Chance Lander
+  photo: chance.jpeg
+  info: Summer GRA,  2023; Postdoc Fellow, 07/2026 -
+  email:
+  number_educ: 2
+  education1: BSc in Biochemistry, University of Texas at Dallas
+  education2: PhD in Chemistry (with Prof. Yihan Shao), The University of Oklahoma
+  research: Quantum Dynamics
+
 - name: Ryan Spencer
   photo: ryan.png
   info: Postdoc Fellow, 05/2026 -
