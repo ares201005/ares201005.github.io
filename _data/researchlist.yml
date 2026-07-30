@@ -4,7 +4,7 @@
   image: cluster_toc.png
   description: Quantum computers were long envisioned as game changers for chemistry and materials modeling, but truly efficient quantum algorithms remain elusive. Our team is developing circuit-efficient, noise-resilient quantum algorithms to (i) estimate energies in quantum many-body systems and (ii) simulate quantum dynamics in complex environments on forthcoming fault-tolerant quantum computers, while identifying where genuine quantum advantage may emerge in quantum many-body physics.
   highlight: 1
-  references: J. Chem. Phys. 164, 084103 (2026); J. Chem. Theory Comput. 21, 11335 (2025); arXiv:2512.14842; arXiv:2511.13038; arXiv:2510.21075; arXiv:2406.08675; arXiv:2406.06625; J. Chem. Theory Comput. 19, 9136 (2024); Chem. Sci. 14, 2405 (2023); Sci. Rep. 12, 16824 (2022); J. Chem. Theory Comput. 18, 9, 5312 (2022); npj Quantum Info. 8, 96 (2022); J. Chem. Theory Comput. 18, 4177 (2022); Sci. Rep. 11, 18796 (2021); PRX Quantum 2, 020337 (2021);
+  references: arXiv:2605.30217; J. Chem. Phys. 164, 084103 (2026); J. Chem. Theory Comput. 21, 11335 (2025); arXiv:2512.14842; arXiv:2511.13038; arXiv:2510.21075; arXiv:2406.08675; arXiv:2406.06625; J. Chem. Theory Comput. 19, 9136 (2024); Chem. Sci. 14, 2405 (2023); Sci. Rep. 12, 16824 (2022); J. Chem. Theory Comput. 18, 9, 5312 (2022); npj Quantum Info. 8, 96 (2022); J. Chem. Theory Comput. 18, 4177 (2022); Sci. Rep. 11, 18796 (2021); PRX Quantum 2, 020337 (2021);
 
 - title: "Cavity quantum chemistry"
   short: "Develop multiscale theory and corresponding massively parallel algorithms for molecular quantum electrodynamics"
@@ -19,7 +19,7 @@
   description: Cavity Quantum Materials lie at the intersection of quantum materials and cavity QED, where the interplay between light and matter gives rise to emergent many-body phenomena. Our research focuses on developing and applying quantum many-body and multi-scale methods to uncover novel quantum phases, collective excitations, and non-equilibrium effects in materials embedded in cavities. By exploring how strong light-matter interactions modify electronic, magnetic, and topological properties, we aim to pave the way for engineered quantum states and functionalities in correlated materials.
   description2:
   highlight: 1
-  references: Phys. Rev. A 113 (3), 033730; arXiv:2601.03230; Phys. Rev. A (2026); arXiv:2411.15022;
+  references: Phys. Rev. A 113, 033730 (2026); arXiv:2607.22283; arXiv:2601.03230; arXiv:2411.15022;
 
 - title: "Tensor network and nuclear quantum dynamics"
   short: "Development of efficient tensor network methods for quantum dynamics"

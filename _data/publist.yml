@@ -8,6 +8,24 @@
      display: tba
   highlight: 0
 
+- title: "When Can a Cavity Move a Mott Transition? A Spectral-Density Criterion within Gutzwiller Theory"
+  image: gutzwiller_mott.png
+  description: Can vacuum electromagnetic fluctuations shift a bulk Mott transition? Within the Gutzwiller variational method, we derive a criterion that separates collective spectroscopic hybridization from thermodynamic phase control. We show that a Mott transition shifts only when the electromagnetic environment supplies finite thermodynamic spectral weight with bond-scale variation.
+  authors: Nikhil V. Seshadri, Yu Zhang\*
+  link:
+     url: https://arxiv.org/abs/2607.22283
+     display: arXiv:2607.22283
+  highlight: 1
+
+- title: "Programmable Dissipation via Partial Quantum Error Correction"
+  image: pqec.png
+  description: Noise is typically treated as the adversary of quantum information processing. For open quantum dynamics, however, dissipation is part of the target physics, creating a tension with fault-tolerant architectures designed to suppress decoherence. In this work, we show that logical noise can instead be turned into a calibrated resource via partial QEC.
+  authors: Sameer Dambal, Michael AD Taylor, Yu Zhang\*
+  link:
+     url: https://arxiv.org/abs/2605.30217
+     display: arXiv:2605.30217
+  highlight: 1
+
 - title: "Scalable Quantum Monte Carlo Method for Polariton Chemistry via Mixed Block Sparsity and Tensor Hypercontraction Method"
   image: jctc_qmcmany2026.jpg
   description:  We present a reduced-scaling auxiliary-field quantum Monte Carlo (AFQMC) framework designed for large molecular systems and ensembles, with or without coupling to optical cavities. Our approach leverages the natural block sparsity of Cholesky decomposition (CD) of electron repulsion integrals in molecular ensembles and employs tensor hypercontraction (THC) to efficiently compress low-rank Cholesky blocks. By representing the Cholesky vectors in a mixed format, keeping high-rank blocks in block-sparse form and compressing low-rank blocks with THC, we reduce the scaling of exchange-energy evaluation from quartic to robust cubic in the number of molecular orbitals, while lowering memory from cubic toward quadratic.
