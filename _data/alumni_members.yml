@@ -1,4 +1,18 @@
 
+- name: Ian Haines
+  info: Undergraduate summer intern, 2026
+  email:
+  number_educ: 1
+  education1: TAMU
+  research: Hyperbolic exciton polariton
+
+- name: Colin Burdine
+  info: QCSS student, 2026
+  email:
+  number_educ: 1
+  education1: PhD. at Baylor University
+  research: Quantum computing for ground/thermal states
+
 - name: Sameer A. Dambal
   photo: sameer.jpeg
   info: Summer GRA, 2024
@@ -6,7 +20,7 @@
   number_educ: 1
   education1: B.Tech, National Institute of Technology Tiruchirappalli
   education3: PhD candidate with Prof. Eric Bittner at University of Houston
-  research: Planar hyperbolic polaritons and noise-assisted quantum simulations
+  research: Noise-assisted quantum simulations
 
 - name: Xinyang Li
   photo: xinyang.jpeg
@@ -22,53 +36,51 @@
   info: Postdoc
   research: Quantum computation
   duration: 01/2021 - 04/2023; Now Research Scientist at Photonics Inc.
-  email: 
+  email:
   number_educ: 1
   education1: PhD at Virginia Tech
 
-- name: Nikolay Tkachenko 
+- name: Nikolay Tkachenko
   photo: nikolay.jpeg
   info: Graduate Research Assistant (Utah State University)
   research: Quantum computation
   duration: Summers of 2020 - 2022; Now Postdoc at UC Berkeley
-  email: 
+  email:
   number_educ: 1
   education1: PhD at Utah State University
 
 - name:  Nosheen Younas
-  photo: 
+  photo:
   info: Graduate Research Assistant (University of Houston)
-  research: Molecular qubits 
+  research: Molecular qubits
   duration: 06/2022 - 08/2022
-  email: 
+  email:
   number_educ: 1
-  education1: 
+  education1:
 
-- name:  Diana Chamaki
-  photo: 
+- name: Diana Chamaki
+  photo:
   info: Graduate Research Assistant (University of California, Berkeley)
   research: Quantum computation
   duration: 06/2021 - 08/2021
-  email: 
+  email:
   number_educ: 1
-  education1: 
+  education1:
 
-- name:  James Sud
-  photo: 
+- name: James Sud
+  photo:
   info: Graduate Research Assistant (University of California, Berkeley)
   research: Quantum computation
   duration: 06/2020 - 08/2020
-  email: 
+  email:
   number_educ: 1
-  education1: 
+  education1:
 
-- name:  Linqiu Li 
-  photo: 
+- name: Linqiu Li
+  photo:
   info: Graduate Research Assistant (University of Southern California)
   research: Nonadiabatic molecular dynamics
   duration: 10/2019 - 01/2020
-  email: 
+  email:
   number_educ: 1
-  education1: 
-
-
+  education1:
