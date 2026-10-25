@@ -6,6 +6,9 @@ sitemap: false
 permalink: /team/
 ---
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/group_photo2026.jpeg" class="img-responsive center-block" alt="Group photo, 2026" style="width: 100%; height: 450px; object-fit: cover; object-position: center bottom; border-radius: 0;" />
+
+
 ## Group Members
 
 <!--

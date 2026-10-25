@@ -16,7 +16,6 @@ include:
 1. Quantum Computation and quantum information science
 1. Quantum dynamics and nuclear quantum effect
 1. Quantum transport and quantum dissipation
-1. Exascale computation
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -46,9 +45,6 @@ include:
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/cluster_toc.png" alt="Slide 5" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/chicoma.png" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
